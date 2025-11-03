@@ -6,7 +6,19 @@ img {
 }
 
 body {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+
   display: flex;
   align-items: center;
   flex-direction: column;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    --bg-color: #121212;
+    --text-color: #ffffff;
+  }
 }
