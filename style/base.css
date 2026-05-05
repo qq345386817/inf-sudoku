@@ -13,8 +13,8 @@
   --radius-lg: 32px;
   --radius-md: 20px;
   --site-max-width: 1120px;
-  --font-serif: ui-serif, "Songti SC", "STSong", "Noto Serif CJK SC", "Noto Serif SC", "PingFang SC", "Hiragino Mincho ProN", "Hiragino Sans", "Yu Mincho", "Apple SD Gothic Neo", "Noto Naskh Arabic", Georgia, "Times New Roman", serif;
-  font-family: var(--font-serif);
+  --font-body: -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  font-family: var(--font-body);
 }
 
 * {
@@ -28,8 +28,16 @@ body {
     radial-gradient(circle at top left, rgba(255, 225, 160, 0.42), transparent 34rem),
     linear-gradient(135deg, var(--bg), #e9ddc9 48%, #f8f4eb);
   color: var(--text);
+  font-family: var(--font-body);
   font-size: 18px;
   line-height: 1.7;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
 }
 
 a {
