@@ -13,7 +13,8 @@
   --radius-lg: 32px;
   --radius-md: 20px;
   --site-max-width: 1120px;
-  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  --font-serif: ui-serif, "Songti SC", "STSong", "Noto Serif CJK SC", "Noto Serif SC", "PingFang SC", "Hiragino Mincho ProN", "Hiragino Sans", "Yu Mincho", "Apple SD Gothic Neo", "Noto Naskh Arabic", Georgia, "Times New Roman", serif;
+  font-family: var(--font-serif);
 }
 
 * {
