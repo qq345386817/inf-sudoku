@@ -17,8 +17,9 @@
 }
 
 .wrapper {
-  margin: auto;
-  max-width: 1280px;
+  width: min(var(--site-max-width), calc(100% - 32px));
+  margin: 0 auto;
+  padding: 0 0 56px;
 }
 
 /* Style the buttons that are used to open and close the accordion panel */

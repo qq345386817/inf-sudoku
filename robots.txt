@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://luopeike.com/inf-sudoku/sitemap.xml
