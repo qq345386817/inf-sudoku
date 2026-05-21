@@ -15,7 +15,231 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://inf-sudoku.luopeike.com/zh-Hans/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/zh-Hant/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://inf-sudoku.luopeike.com/help.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/zh-Hans/help.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/zh-Hant/help.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ja/help.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ko/help.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/de/help.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/fr/help.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ru/help.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ar/help.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
@@ -43,48 +267,6 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://inf-sudoku.luopeike.com/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/zh-Hans/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/zh-Hans/help.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
     <loc>https://inf-sudoku.luopeike.com/zh-Hans/support.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/support.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/support.html" />
@@ -96,48 +278,6 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/support.html" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/support.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/support.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/zh-Hant/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/zh-Hant/help.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -155,48 +295,6 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/ja/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/ja/help.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
     <loc>https://inf-sudoku.luopeike.com/ja/support.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/support.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/support.html" />
@@ -208,48 +306,6 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/support.html" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/support.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/support.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/ja/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/ko/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/ko/help.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -267,48 +323,6 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://inf-sudoku.luopeike.com/ko/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/de/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/de/help.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
     <loc>https://inf-sudoku.luopeike.com/de/support.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/support.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/support.html" />
@@ -320,48 +334,6 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/support.html" />
     <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/support.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/support.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/de/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/fr/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/fr/help.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -379,48 +351,6 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://inf-sudoku.luopeike.com/fr/privacy-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/ru/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://inf-sudoku.luopeike.com/ru/help.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
     <loc>https://inf-sudoku.luopeike.com/ru/support.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/support.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/support.html" />
@@ -435,7 +365,21 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://inf-sudoku.luopeike.com/ru/privacy-policy.html</loc>
+    <loc>https://inf-sudoku.luopeike.com/ar/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/support.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/support.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/support.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/support.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/privacy-policy.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
     <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
@@ -449,45 +393,101 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://inf-sudoku.luopeike.com/ar/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/" />
+    <loc>https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://inf-sudoku.luopeike.com/ar/help.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/help.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/help.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/help.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/help.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/help.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/help.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/help.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/help.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/help.html" />
+    <loc>https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://inf-sudoku.luopeike.com/ar/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/support.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/support.html" />
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/support.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/support.html" />
+    <loc>https://inf-sudoku.luopeike.com/ja/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ko/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/de/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/fr/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ru/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/privacy-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/privacy-policy.html" />
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -506,14 +506,380 @@
   </url>
   <url>
     <loc>https://inf-sudoku.luopeike.com/daily-sudoku-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html</loc>
+    <loc>https://inf-sudoku.luopeike.com/zh-Hans/daily-sudoku-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/zh-Hant/daily-sudoku-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ja/daily-sudoku-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ko/daily-sudoku-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/de/daily-sudoku-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/fr/daily-sudoku-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ru/daily-sudoku-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ar/daily-sudoku-focus.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/daily-sudoku-focus.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/daily-sudoku-focus.html" />
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/zh-Hans/infinite-sudoku-generator.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/zh-Hant/infinite-sudoku-generator.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ja/infinite-sudoku-generator.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ko/infinite-sudoku-generator.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/de/infinite-sudoku-generator.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/fr/infinite-sudoku-generator.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ru/infinite-sudoku-generator.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ar/infinite-sudoku-generator.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/infinite-sudoku-generator.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/infinite-sudoku-generator.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/zh-Hans/printable-sudoku-puzzles.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/zh-Hant/printable-sudoku-puzzles.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ja/printable-sudoku-puzzles.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ko/printable-sudoku-puzzles.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/de/printable-sudoku-puzzles.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/fr/printable-sudoku-puzzles.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ru/printable-sudoku-puzzles.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://inf-sudoku.luopeike.com/ar/printable-sudoku-puzzles.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/printable-sudoku-puzzles.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/printable-sudoku-puzzles.html" />
     <changefreq>monthly</changefreq>
   </url>
 </urlset>
