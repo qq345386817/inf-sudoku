@@ -1,0 +1,38 @@
+# Infinity Sudoku 9x9
+
+> Infinity Sudoku is a free browser-based 9x9 Sudoku game and a native Sudoku app for iPhone, iPad, Mac, and Apple TV.
+
+## Primary pages
+
+- [Play Sudoku online](https://inf-sudoku.luopeike.com/play): Free Easy, Medium, and Hard 9x9 puzzles with notes, hints, undo, erase, touch, and keyboard controls. No account is required, and browser games are not saved.
+- [Infinity Sudoku app](https://inf-sudoku.luopeike.com/): Product overview and App Store download.
+- [Help](https://inf-sudoku.luopeike.com/help): Supported platforms and app features.
+- [Support](https://inf-sudoku.luopeike.com/support): Product support information.
+- [Privacy](https://inf-sudoku.luopeike.com/privacy-policy): Privacy information for the website and app.
+
+## Guides
+
+- [Daily Sudoku focus](https://inf-sudoku.luopeike.com/daily-sudoku-focus)
+- [Infinite Sudoku generator](https://inf-sudoku.luopeike.com/infinite-sudoku-generator)
+- [Printable Sudoku puzzles](https://inf-sudoku.luopeike.com/printable-sudoku-puzzles)
+
+## Product facts
+
+- The web game generates classic 9x9 Sudoku puzzles with a unique solution.
+- The browser version stores no account or puzzle history.
+- Daily challenges, challenge history, themes, printing, and other native features are available in the Apple app.
+- The App Store listing is https://apps.apple.com/app/id6673897515.
+
+## Localized online game
+
+- [English](https://inf-sudoku.luopeike.com/play)
+- [简体中文](https://inf-sudoku.luopeike.com/zh-Hans/play)
+- [繁體中文](https://inf-sudoku.luopeike.com/zh-Hant/play)
+- [日本語](https://inf-sudoku.luopeike.com/ja/play)
+- [한국어](https://inf-sudoku.luopeike.com/ko/play)
+- [Deutsch](https://inf-sudoku.luopeike.com/de/play)
+- [Français](https://inf-sudoku.luopeike.com/fr/play)
+- [Español](https://inf-sudoku.luopeike.com/es/play)
+- [Italiano](https://inf-sudoku.luopeike.com/it/play)
+- [Русский](https://inf-sudoku.luopeike.com/ru/play)
+- [العربية](https://inf-sudoku.luopeike.com/ar/play)
