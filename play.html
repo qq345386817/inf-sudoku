@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Play a fresh 9x9 Sudoku puzzle online for free. Choose Easy, Medium, or Hard, use notes and hints, and start instantly without an account.">
+  <meta name="robots" content="index,follow">
+  <meta property="og:title" content="Play Sudoku Online | Infinity Sudoku 9x9">
+  <meta property="og:description" content="Play a fresh 9x9 Sudoku puzzle online for free. Choose Easy, Medium, or Hard, use notes and hints, and start instantly without an account.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://inf-sudoku.luopeike.com/play">
+  <meta property="og:image" content="https://inf-sudoku.luopeike.com/favicon/android-chrome-512x512.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://inf-sudoku.luopeike.com/favicon/android-chrome-512x512.png">
+  <link rel="canonical" href="https://inf-sudoku.luopeike.com/play">
+  <link rel="alternate" hreflang="en" href="https://inf-sudoku.luopeike.com/play">
+  <link rel="alternate" hreflang="zh-Hans" href="https://inf-sudoku.luopeike.com/zh-Hans/play">
+  <link rel="alternate" hreflang="zh-Hant" href="https://inf-sudoku.luopeike.com/zh-Hant/play">
+  <link rel="alternate" hreflang="ja" href="https://inf-sudoku.luopeike.com/ja/play">
+  <link rel="alternate" hreflang="ko" href="https://inf-sudoku.luopeike.com/ko/play">
+  <link rel="alternate" hreflang="de" href="https://inf-sudoku.luopeike.com/de/play">
+  <link rel="alternate" hreflang="fr" href="https://inf-sudoku.luopeike.com/fr/play">
+  <link rel="alternate" hreflang="es" href="https://inf-sudoku.luopeike.com/es/play">
+  <link rel="alternate" hreflang="it" href="https://inf-sudoku.luopeike.com/it/play">
+  <link rel="alternate" hreflang="ru" href="https://inf-sudoku.luopeike.com/ru/play">
+  <link rel="alternate" hreflang="ar" href="https://inf-sudoku.luopeike.com/ar/play">
+  <link rel="alternate" hreflang="x-default" href="https://inf-sudoku.luopeike.com/play">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+  <link rel="manifest" href="favicon/site.webmanifest">
+  <meta name="theme-color" content="#0f8fb8">
+  <link rel="stylesheet" href="style/base.css">
+  <link rel="stylesheet" href="style/game.css">
+  <title>Play Sudoku Online | Infinity Sudoku 9x9</title>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://inf-sudoku.luopeike.com/#website",
+      "name": "Infinity Sudoku 9x9",
+      "url": "https://inf-sudoku.luopeike.com/",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "WebApplication",
+      "@id": "https://inf-sudoku.luopeike.com/play#webapp",
+      "name": "Infinity Sudoku 9x9 Online",
+      "description": "Play a fresh 9x9 Sudoku puzzle online for free. Choose Easy, Medium, or Hard, use notes and hints, and start instantly without an account.",
+      "url": "https://inf-sudoku.luopeike.com/play",
+      "applicationCategory": "GameApplication",
+      "operatingSystem": "Any",
+      "browserRequirements": "Requires JavaScript",
+      "inLanguage": "en",
+      "isAccessibleForFree": true,
+      "isPartOf": {
+        "@id": "https://inf-sudoku.luopeike.com/#website"
+      },
+      "featureList": [
+        "Three difficulty levels",
+        "Notes and hints",
+        "Mouse, touch, and keyboard"
+      ],
+      "sameAs": [
+        "https://apps.apple.com/app/id6673897515"
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+  ]
+}
+  </script>
+</head>
+<body class="game-body">
+  <div class="page game-page">
+    <div class="container">
+      <header class="topbar">
+        <a class="brand" href="./" aria-label="Infinity Sudoku home">
+          <img src="favicon/apple-touch-icon.png" alt="">
+          <span>Infinity Sudoku 9x9</span>
+        </a>
+        <nav class="nav" aria-label="Primary"><a href="./">Home</a><a href="play" aria-current="page">Play</a><a href="help">Help</a><a href="support">Support</a><a href="privacy-policy">Privacy</a><label class="language-switch"><span>Language</span><select aria-label="Language" onchange="if (this.value) window.location.href=this.value"><option value="play" selected>English</option><option value="zh-Hans/play">简体中文</option><option value="zh-Hant/play">繁體中文</option><option value="ja/play">日本語</option><option value="ko/play">한국어</option><option value="de/play">Deutsch</option><option value="fr/play">Français</option><option value="es/play">Español</option><option value="it/play">Italiano</option><option value="ru/play">Русский</option><option value="ar/play">العربية</option></select></label></nav>
+      </header>
+      <main id="sudoku-game" class="game-layout game-loading">
+        <section class="game-stage" aria-labelledby="play-heading">
+          <div class="board-frame">
+            <div id="sudoku-board" class="game-board" role="grid" aria-label="Sudoku puzzle"></div>
+          </div>
+        </section>
+        <aside class="game-controls">
+          <h1 id="play-heading" data-i18n="playTitle">Play Sudoku</h1>
+          <p class="game-intro" data-i18n="intro">A fresh puzzle, a quiet screen, and no account required.</p>
+          <div class="game-status" aria-live="polite">
+            <span><svg class="status-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V14h3v6H4Zm6 0V9h3v11h-3Zm6 0V4h3v16h-3Z" fill="currentColor"/></svg><span id="game-level">Medium</span></span>
+            <span><svg class="status-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 7v5l3 2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"/></svg><span id="game-timer">00:00</span></span>
+          </div>
+          <div class="difficulty-control" role="group" aria-label="Difficulty" data-i18n-label="difficulty">
+            <button class="difficulty-button" type="button" data-difficulty="easy" aria-pressed="false" data-i18n="easy">Easy</button>
+            <button class="difficulty-button" type="button" data-difficulty="medium" aria-pressed="true" data-i18n="medium">Medium</button>
+            <button class="difficulty-button" type="button" data-difficulty="hard" aria-pressed="false" data-i18n="hard">Hard</button>
+          </div>
+          <div class="number-pad" role="group" aria-label="Number input" data-i18n-label="numberInput">
+            <button class="number-button" type="button" data-number="1" aria-label="1">1</button>
+            <button class="number-button" type="button" data-number="2" aria-label="2">2</button>
+            <button class="number-button" type="button" data-number="3" aria-label="3">3</button>
+            <button class="number-button" type="button" data-number="4" aria-label="4">4</button>
+            <button class="number-button" type="button" data-number="5" aria-label="5">5</button>
+            <button class="number-button" type="button" data-number="6" aria-label="6">6</button>
+            <button class="number-button" type="button" data-number="7" aria-label="7">7</button>
+            <button class="number-button" type="button" data-number="8" aria-label="8">8</button>
+            <button class="number-button" type="button" data-number="9" aria-label="9">9</button>
+          </div>
+          <div class="tool-row" role="group" aria-label="Tools">
+            <button class="tool-button" type="button" data-action="undo"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 7-5 5 5 5"/><path d="M5 12h8a6 6 0 0 1 6 6"/></svg><span data-i18n="undo">Undo</span></button>
+            <button class="tool-button" type="button" data-action="notes" aria-pressed="false"><span class="mode-dot"></span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m4 20 4.2-1 10.7-10.7a2.1 2.1 0 0 0-3-3L5.2 16 4 20Z"/><path d="m14.8 6.4 3 3"/></svg><span data-i18n="notes">Notes</span></button>
+            <button class="tool-button" type="button" data-action="erase"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m4 15 8.8-8.8a2 2 0 0 1 2.8 0l2.2 2.2a2 2 0 0 1 0 2.8L9 20H5l-2-2 1-3Z"/><path d="m10 19-5-5"/></svg><span data-i18n="erase">Erase</span></button>
+            <button class="tool-button" type="button" data-action="hint"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18h6M10 21h4"/><path d="M8.5 14.5A7 7 0 1 1 15.5 14.5C14.5 15.3 14 16 14 17h-4c0-1-.5-1.7-1.5-2.5Z"/></svg><span data-i18n="hint">Hint</span></button>
+          </div>
+          <button class="new-game-button" type="button" data-action="new" data-i18n="newPuzzle">New puzzle</button>
+          <p id="game-message" class="game-message" role="status" aria-live="polite"></p>
+          <div id="completion-panel" class="completion-panel" role="status" hidden><strong data-i18n="complete">Puzzle complete</strong><p id="completion-text"></p></div>
+          <div class="native-promo">
+            <img src="favicon/apple-touch-icon.png" alt="">
+            <div><strong data-i18n="continueApple">Continue on every Apple screen</strong><p data-i18n="appBody">Get daily challenges, history, themes, printing, and more in the app.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
+          </div>
+        </aside>
+      </main>
+      <section class="play-copy" aria-labelledby="play-copy-heading">
+        <div class="play-copy-intro"><h2 id="play-copy-heading">Free online 9x9 Sudoku</h2><p>Play a freshly generated classic Sudoku puzzle directly in your browser. Each board uses the standard 9x9 grid and has one solution, with no sign-up, download, or saved history required.</p></div>
+        <div class="play-guide" aria-labelledby="play-features-heading"><h2 id="play-features-heading">Choose the way you want to solve</h2><div class="play-feature-grid"><article><h3>Three difficulty levels</h3><p>Start with Easy, move to Medium, or choose Hard when you want fewer given numbers.</p></article><article><h3>Notes and hints</h3><p>Add candidate numbers to empty cells, erase a move, undo changes, or reveal one correct number when you are stuck.</p></article><article><h3>Mouse, touch, and keyboard</h3><p>Select cells on screen or use number and arrow keys for a faster solving flow on desktop.</p></article></div></div>
+        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">Online Sudoku questions</h2><details><summary>Is this online Sudoku free?</summary><p>Yes. The browser game is free to play and does not require an account.</p></details><details><summary>Is my puzzle saved?</summary><p>No. The puzzle stays only in the current page. Reloading or closing it starts a new session.</p></details><details><summary>What is available in the app?</summary><p>The Apple app adds daily challenges, challenge history, themes, printing, and other native features for iPhone, iPad, Mac, and Apple TV.</p></details></div>
+      </section>
+      <noscript><section class="section"><p>JavaScript is required to play Sudoku in the browser.</p></section></noscript>
+      <footer class="footer">Infinity Sudoku 9x9 - a calmer way to play.</footer>
+    </div>
+  </div>
+  <script src="scripts/sudoku-game.js" defer></script>
+</body>
+</html>
