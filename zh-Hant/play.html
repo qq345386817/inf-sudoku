@@ -75,8 +75,10 @@
   ]
 }
   </script>
+  <link rel="stylesheet" href="../style/refresh.css">
 </head>
-<body class="game-body">
+<body class="game-body" data-site-design="focus-2026">
+  <a class="skip-link" href="#sudoku-game">跳至正文</a>
   <div class="page game-page">
     <div class="container">
       <header class="topbar">
@@ -84,7 +86,7 @@
           <img src="../favicon/apple-touch-icon.png" alt="">
           <span>Infinity Sudoku 9x9</span>
         </a>
-        <nav class="nav" aria-label="Primary"><a href="../zh-Hant/">首頁</a><a href="play" aria-current="page">線上玩</a><a href="help">幫助</a><a href="support">支援</a><a href="privacy-policy">隱私</a><label class="language-switch"><span>語言</span><select aria-label="語言" onchange="if (this.value) window.location.href=this.value"><option value="../play">English</option><option value="../zh-Hans/play">简体中文</option><option value="../zh-Hant/play" selected>繁體中文</option><option value="../ja/play">日本語</option><option value="../ko/play">한국어</option><option value="../de/play">Deutsch</option><option value="../fr/play">Français</option><option value="../es/play">Español</option><option value="../it/play">Italiano</option><option value="../ru/play">Русский</option><option value="../ar/play">العربية</option></select></label></nav>
+        <nav class="nav" aria-label="語言"><a href="../zh-Hant/">首頁</a><a href="play" aria-current="page">線上玩</a><a href="help">幫助</a><a href="support">支援</a><a href="privacy-policy">隱私</a></nav><label class="language-switch"><span>語言</span><select aria-label="語言" onchange="if (this.value) window.location.href=this.value"><option value="../play">English</option><option value="../zh-Hans/play">简体中文</option><option value="../zh-Hant/play" selected>繁體中文</option><option value="../ja/play">日本語</option><option value="../ko/play">한국어</option><option value="../de/play">Deutsch</option><option value="../fr/play">Français</option><option value="../es/play">Español</option><option value="../it/play">Italiano</option><option value="../ru/play">Русский</option><option value="../ar/play">العربية</option></select></label>
       </header>
       <main id="sudoku-game" class="game-layout game-loading">
         <section class="game-stage" aria-labelledby="play-heading">
@@ -136,7 +138,7 @@
         <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">線上數獨常見問題</h2><details><summary>線上數獨免費嗎？</summary><p>免費。網頁版無需帳戶，開啟即可開始。</p></details><details><summary>棋盤會被儲存嗎？</summary><p>不會。棋盤只存在於目前頁面，重新整理或關閉頁面後會開始新的遊戲。</p></details><details><summary>App 版還有哪些功能？</summary><p>Apple 平台 App 另有每日挑戰、挑戰記錄、主題、列印等原生功能，支援 iPhone、iPad、Mac 和 Apple TV。</p></details></div>
       </section>
       <noscript><section class="section"><p>JavaScript is required to play Sudoku in the browser.</p></section></noscript>
-      <footer class="footer">Infinity Sudoku 9x9 - 更安靜的數獨體驗。</footer>
+      <footer class="footer"><span>Infinity Sudoku 9x9 - 更安靜的數獨體驗。</span><a href="play">線上玩<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>
   </div>
   <script src="../scripts/sudoku-game.js" defer></script>

@@ -464,3 +464,6 @@ if (/<!-- PLAY_PAGES_START -->[\s\S]*<!-- PLAY_PAGES_END -->/.test(sitemap)) {
 fs.writeFileSync(sitemapPath, sitemap);
 
 console.log(`Generated ${locales.length} localized play pages, supporting links, and llms.txt.`);
+
+// Preserve the shared design and complete locale navigation when regenerating.
+await import('./refresh-site.mjs');

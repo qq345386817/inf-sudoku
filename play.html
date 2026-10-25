@@ -75,8 +75,10 @@
   ]
 }
   </script>
+  <link rel="stylesheet" href="style/refresh.css">
 </head>
-<body class="game-body">
+<body class="game-body" data-site-design="focus-2026">
+  <a class="skip-link" href="#sudoku-game">Skip to content</a>
   <div class="page game-page">
     <div class="container">
       <header class="topbar">
@@ -84,7 +86,7 @@
           <img src="favicon/apple-touch-icon.png" alt="">
           <span>Infinity Sudoku 9x9</span>
         </a>
-        <nav class="nav" aria-label="Primary"><a href="./">Home</a><a href="play" aria-current="page">Play</a><a href="help">Help</a><a href="support">Support</a><a href="privacy-policy">Privacy</a><label class="language-switch"><span>Language</span><select aria-label="Language" onchange="if (this.value) window.location.href=this.value"><option value="play" selected>English</option><option value="zh-Hans/play">简体中文</option><option value="zh-Hant/play">繁體中文</option><option value="ja/play">日本語</option><option value="ko/play">한국어</option><option value="de/play">Deutsch</option><option value="fr/play">Français</option><option value="es/play">Español</option><option value="it/play">Italiano</option><option value="ru/play">Русский</option><option value="ar/play">العربية</option></select></label></nav>
+        <nav class="nav" aria-label="Primary navigation"><a href="./">Home</a><a href="play" aria-current="page">Play</a><a href="help">Help</a><a href="support">Support</a><a href="privacy-policy">Privacy</a></nav><label class="language-switch"><span>Language</span><select aria-label="Language" onchange="if (this.value) window.location.href=this.value"><option value="play" selected>English</option><option value="zh-Hans/play">简体中文</option><option value="zh-Hant/play">繁體中文</option><option value="ja/play">日本語</option><option value="ko/play">한국어</option><option value="de/play">Deutsch</option><option value="fr/play">Français</option><option value="es/play">Español</option><option value="it/play">Italiano</option><option value="ru/play">Русский</option><option value="ar/play">العربية</option></select></label>
       </header>
       <main id="sudoku-game" class="game-layout game-loading">
         <section class="game-stage" aria-labelledby="play-heading">
@@ -136,7 +138,7 @@
         <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">Online Sudoku questions</h2><details><summary>Is this online Sudoku free?</summary><p>Yes. The browser game is free to play and does not require an account.</p></details><details><summary>Is my puzzle saved?</summary><p>No. The puzzle stays only in the current page. Reloading or closing it starts a new session.</p></details><details><summary>What is available in the app?</summary><p>The Apple app adds daily challenges, challenge history, themes, printing, and other native features for iPhone, iPad, Mac, and Apple TV.</p></details></div>
       </section>
       <noscript><section class="section"><p>JavaScript is required to play Sudoku in the browser.</p></section></noscript>
-      <footer class="footer">Infinity Sudoku 9x9 - a calmer way to play.</footer>
+      <footer class="footer"><span>Infinity Sudoku 9x9 - a calmer way to play.</span><a href="play">Play<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>
   </div>
   <script src="scripts/sudoku-game.js" defer></script>

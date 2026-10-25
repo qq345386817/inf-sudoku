@@ -75,8 +75,10 @@
   ]
 }
   </script>
+  <link rel="stylesheet" href="../style/refresh.css">
 </head>
-<body class="game-body">
+<body class="game-body" data-site-design="focus-2026">
+  <a class="skip-link" href="#sudoku-game">본문으로 이동</a>
   <div class="page game-page">
     <div class="container">
       <header class="topbar">
@@ -84,7 +86,7 @@
           <img src="../favicon/apple-touch-icon.png" alt="">
           <span>Infinity Sudoku 9x9</span>
         </a>
-        <nav class="nav" aria-label="Primary"><a href="../ko/">홈</a><a href="play" aria-current="page">플레이</a><a href="help">도움말</a><a href="support">지원</a><a href="privacy-policy">개인정보</a><label class="language-switch"><span>언어</span><select aria-label="언어" onchange="if (this.value) window.location.href=this.value"><option value="../play">English</option><option value="../zh-Hans/play">简体中文</option><option value="../zh-Hant/play">繁體中文</option><option value="../ja/play">日本語</option><option value="../ko/play" selected>한국어</option><option value="../de/play">Deutsch</option><option value="../fr/play">Français</option><option value="../es/play">Español</option><option value="../it/play">Italiano</option><option value="../ru/play">Русский</option><option value="../ar/play">العربية</option></select></label></nav>
+        <nav class="nav" aria-label="언어"><a href="../ko/">홈</a><a href="play" aria-current="page">플레이</a><a href="help">도움말</a><a href="support">지원</a><a href="privacy-policy">개인정보</a></nav><label class="language-switch"><span>언어</span><select aria-label="언어" onchange="if (this.value) window.location.href=this.value"><option value="../play">English</option><option value="../zh-Hans/play">简体中文</option><option value="../zh-Hant/play">繁體中文</option><option value="../ja/play">日本語</option><option value="../ko/play" selected>한국어</option><option value="../de/play">Deutsch</option><option value="../fr/play">Français</option><option value="../es/play">Español</option><option value="../it/play">Italiano</option><option value="../ru/play">Русский</option><option value="../ar/play">العربية</option></select></label>
       </header>
       <main id="sudoku-game" class="game-layout game-loading">
         <section class="game-stage" aria-labelledby="play-heading">
@@ -136,7 +138,7 @@
         <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">온라인 스도쿠 질문</h2><details><summary>온라인 스도쿠는 무료인가요?</summary><p>네. 브라우저 게임은 무료이며 계정이 필요하지 않습니다.</p></details><details><summary>퍼즐이 저장되나요?</summary><p>아니요. 보드는 현재 페이지에만 있으며 새로고침하거나 닫으면 새 세션이 시작됩니다.</p></details><details><summary>앱에는 어떤 기능이 있나요?</summary><p>Apple 앱은 iPhone, iPad, Mac, Apple TV에서 일일 도전, 도전 기록, 테마, 인쇄 등의 기능을 제공합니다.</p></details></div>
       </section>
       <noscript><section class="section"><p>JavaScript is required to play Sudoku in the browser.</p></section></noscript>
-      <footer class="footer">Infinity Sudoku 9x9 - 더 차분한 스도쿠.</footer>
+      <footer class="footer"><span>Infinity Sudoku 9x9 - 더 차분한 스도쿠.</span><a href="play">플레이<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>
   </div>
   <script src="../scripts/sudoku-game.js" defer></script>
