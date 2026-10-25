@@ -18,9 +18,18 @@ const locales = [
 ];
 const arrow = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg>';
 const guideNames = ['daily-sudoku-focus', 'printable-sudoku-puzzles', 'infinite-sudoku-generator'];
+const navigationLabels = {en: 'Primary navigation', 'zh-Hans': '主要导航', 'zh-Hant': '主要導覽', ja: 'メインナビゲーション', ko: '주 탐색', de: 'Hauptnavigation', fr: 'Navigation principale', es: 'Navegación principal', it: 'Navigazione principale', ru: 'Основная навигация', ar: 'التنقل الرئيسي'};
+const gameTranslations = fs.readFileSync(path.join(root, 'scripts/sudoku-game.js'), 'utf8');
 
 for (const [code, folder, , heading, caption, guideHeading, skip] of locales) {
   const prefix = folder ? '../' : '';
+  const gameCopy = gameTranslations.match(new RegExp(`(?:^|\\n)    (?:"${code}"|${code}): \\{([\\s\\S]*?)\\n    \\}`))?.[1];
+  if (!gameCopy) throw new Error(`Missing game translations: ${code}`);
+  const difficulties = ['easy', 'medium', 'hard'].map(key => {
+    const label = gameCopy.match(new RegExp(`${key}: "([^"]*)"`))?.[1];
+    if (!label) throw new Error(`Missing difficulty label: ${code}/${key}`);
+    return label;
+  });
   const directory = path.join(root, folder);
   for (const filename of fs.readdirSync(directory).filter(name => name.endsWith('.html') && !name.startsWith('google'))) {
     const file = path.join(directory, filename);
@@ -46,7 +55,7 @@ for (const [code, folder, , heading, caption, guideHeading, skip] of locales) {
     const label = `<label class="language-switch"><span>${languageLabel}</span><select aria-label="${languageLabel}" onchange="if (this.value) window.location.href=this.value">${options}</select></label>`;
     // Remove an already refreshed header label before replacing its navigation.
     html = html.replace(/(<\/nav>)\s*<label class="language-switch">[\s\S]*?<\/label>/, '$1');
-    html = html.replace(/<nav class="nav"[^>]*>[\s\S]*?<\/nav>/, `<nav class="nav" aria-label="${code === 'en' ? 'Primary navigation' : languageLabel}">${nav}</nav>${label}`);
+    html = html.replace(/<nav class="nav"[^>]*>[\s\S]*?<\/nav>/, `<nav class="nav" aria-label="${navigationLabels[code]}">${nav}</nav>${label}`);
     if (!html.includes('style/refresh.css')) html = html.replace('</head>', `  <link rel="stylesheet" href="${prefix}style/refresh.css">\n</head>`);
     html = html.replace(/<body([^>]*)>/, (_, attrs) => `<body${attrs.replace(/ data-site-design="[^"]*"/g, '')} data-site-design="focus-2026">`);
     if (code === 'ar') html = html.replace(/<html([^>]*)>/, (_, attrs) => `<html${attrs.replace(/ dir="[^"]*"/, '')} dir="rtl">`);
@@ -68,6 +77,7 @@ for (const [code, folder, , heading, caption, guideHeading, skip] of locales) {
       }
       html = html.replace(/<div class="sudoku-grid"[^>]*>/, '<div class="sudoku-grid" aria-hidden="true">');
       html = html.replace(/<div class="preview-caption">[\s\S]*?<\/div>/, '');
+      html = html.replace(/<div class="stats">[\s\S]*?<\/div>/, `<div class="stats">${difficulties.map(label => `<span>${label}</span>`).join('')}</div>`);
       html = html.replace(/(<div class="stats">[\s\S]*?<\/div>)/, `$1<div class="preview-caption"><span>${caption}</span><a href="play">${playText}<span aria-hidden="true">↗</span></a></div>`);
       const guides = guideNames.map(name => {
         const content = fs.readFileSync(path.join(directory, `${name}.html`), 'utf8');
