@@ -15,6 +15,7 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parent.parent
 ORIGIN = "https://inf-sudoku.luopeike.com"
 ENDPOINT = "https://api.indexnow.org/indexnow"
+USER_AGENT = f"InfinitySudokuWebsite/1.0 (+{ORIGIN}/)"
 NS = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 
 
@@ -47,13 +48,17 @@ def main():
         return
 
     key_location = f"{ORIGIN}/indexnow-key.txt"
-    with urllib.request.urlopen(key_location, timeout=30) as response:
+    # Pages rejects the default urllib agent (Cloudflare 1010). Identify this
+    # maintenance client explicitly rather than changing site security settings.
+    key_request = urllib.request.Request(key_location, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(key_request, timeout=30) as response:
         if response.status != 200 or response.read().decode().strip() != key:
             raise ValueError("The production key does not match; deploy before submitting")
+    print(json.dumps({"productionKey": "verified", "endpoint": ENDPOINT}))
     payload = {"host": urllib.parse.urlsplit(ORIGIN).netloc, "key": key,
                "keyLocation": key_location, "urlList": urls}
     request = urllib.request.Request(ENDPOINT, data=json.dumps(payload).encode(),
-                                     headers={"Content-Type": "application/json; charset=utf-8"})
+                                     headers={"Content-Type": "application/json; charset=utf-8", "User-Agent": USER_AGENT})
     with urllib.request.urlopen(request, timeout=30) as response:
         status = response.status
         if status not in (200, 202):
@@ -66,6 +71,9 @@ def main():
 if __name__ == "__main__":
     try:
         main()
+    except urllib.error.HTTPError as error:
+        print(f"IndexNow HTTP {error.code} at {error.url}: {error.read(500).decode(errors='replace')}", file=sys.stderr)
+        sys.exit(1)
     except (OSError, ValueError, urllib.error.URLError) as error:
         print(f"IndexNow failed: {error}", file=sys.stderr)
         sys.exit(1)
