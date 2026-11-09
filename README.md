@@ -66,3 +66,20 @@ The error page uses root-relative assets and links so it also works for missing
 localized or deeply nested URLs. It is excluded from the sitemap and generators.
 After deployment, verify both real pages (200) and unknown paths (404) on the
 custom domain; a local static server alone cannot confirm Pages routing behavior.
+
+## Search-engine update notifications
+
+After publishing changed content, notify IndexNow once for the relevant sitemap
+`lastmod` dates. Preview the batch, then send it only after production is ready:
+
+```sh
+python3 scripts/submit-indexnow.py --since 2026-11-09
+python3 scripts/submit-indexnow.py --since 2026-11-09 --submit
+```
+
+Use the actual update date, not a permanently fixed date. Keep `lastmod` accurate;
+do not notify unchanged pages repeatedly. The script validates the canonical
+host and checks the production key before sending. `indexnow-key.txt` is the
+public ownership file required by this protocol, not a Google/Bing account token.
+HTTP 200 means received; 202 means received with key validation pending. Neither
+confirms indexing, and IndexNow does not replace Google Search Console.
