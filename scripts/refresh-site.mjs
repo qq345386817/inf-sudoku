@@ -62,6 +62,10 @@ for (const [code, folder, , heading, caption, guideHeading, skip] of locales) {
     html = html.replace(/<nav class="nav"[^>]*>[\s\S]*?<\/nav>/, `<nav class="nav" aria-label="${navigationLabels[code]}">${nav}</nav>${label}`);
     if (!html.includes('style/refresh.css')) html = html.replace('</head>', `  <link rel="stylesheet" href="${prefix}style/refresh.css">\n</head>`);
     html = html.replace(/<body([^>]*)>/, (_, attrs) => `<body${attrs.replace(/ data-site-design="[^"]*"/g, '')} data-site-design="focus-2026">`);
+    // These icons repeat adjacent link text. CSS keeps them decorative without
+    // empty-alt <img> elements being reported as missing text by Bing's checker.
+    html = html.replace(/<img src="(?:\.\.\/)?favicon\/apple-touch-icon\.png" alt="">/g, '<span class="brand-icon" aria-hidden="true"></span>');
+    html = html.replace(/<img class="store-icon" src="(?:\.\.\/)?images\/app-store-icon\.svg" alt="">/g, '<span class="store-icon" aria-hidden="true"></span>');
     if (code === 'ar') html = html.replace(/<html([^>]*)>/, (_, attrs) => `<html${attrs.replace(/ dir="[^"]*"/, '')} dir="rtl">`);
     const mainId = html.match(/<main[^>]*id="([^"]+)"/)?.[1] || 'main-content';
     if (!html.match(/<main[^>]*id=/)) html = html.replace('<main', '<main id="main-content"');

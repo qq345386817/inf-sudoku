@@ -411,7 +411,7 @@
   border-top: 1px solid var(--border);
 }
 
-.native-promo > img {
+.native-promo > img, .native-promo > .brand-icon {
   width: 54px;
   height: 54px;
   border-radius: 12px;
@@ -555,7 +555,7 @@
   .tool-row { grid-template-columns: repeat(4, 1fr); margin-top: 10px; }
   .tool-button { min-height: 68px; font-size: 11px; }
   .native-promo { grid-template-columns: 48px 1fr; }
-  .native-promo > img { width: 48px; height: 48px; }
+  .native-promo > img, .native-promo > .brand-icon { width: 48px; height: 48px; }
   .play-copy { margin-top: 44px; }
   .play-feature-grid { grid-template-columns: 1fr; }
 }
