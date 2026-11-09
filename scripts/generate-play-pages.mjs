@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { productContent, escapeHTML } from './update-product-content.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const appStoreURL = "https://apps.apple.com/app/id6673897515";
@@ -33,7 +34,7 @@ const seoContent = {
     faqs: [
       ["Is this online Sudoku free?", "Yes. The browser game is free to play and does not require an account."],
       ["Is my puzzle saved?", "No. The puzzle stays only in the current page. Reloading or closing it starts a new session."],
-      ["What is available in the app?", "The Apple app adds daily challenges, challenge history, themes, printing, and other native features for iPhone, iPad, Mac, and Apple TV."],
+      ["What is available in the app?", productContent.locales["en"].web],
     ],
     ctaTitle: "Play Sudoku online",
     ctaBody: "Start a free 9x9 Sudoku in your browser with Easy, Medium, or Hard difficulty. No account is required.",
@@ -52,7 +53,7 @@ const seoContent = {
     faqs: [
       ["在线数独免费吗？", "免费。网页版无需账户，打开即可开始。"],
       ["棋盘会被保存吗？", "不会。棋盘只存在于当前页面，刷新或关闭页面后会开始新的会话。"],
-      ["App 版还有哪些功能？", "Apple 平台 App 另有每日挑战、挑战历史、主题、打印等原生功能，支持 iPhone、iPad、Mac 和 Apple TV。"],
+      ["App 版还有哪些功能？", productContent.locales["zh-Hans"].web],
     ],
     ctaTitle: "在线玩数独",
     ctaBody: "在浏览器中免费开始一道 9x9 数独，可选容易、中等或困难难度，无需账户。",
@@ -71,7 +72,7 @@ const seoContent = {
     faqs: [
       ["線上數獨免費嗎？", "免費。網頁版無需帳戶，開啟即可開始。"],
       ["棋盤會被儲存嗎？", "不會。棋盤只存在於目前頁面，重新整理或關閉頁面後會開始新的遊戲。"],
-      ["App 版還有哪些功能？", "Apple 平台 App 另有每日挑戰、挑戰記錄、主題、列印等原生功能，支援 iPhone、iPad、Mac 和 Apple TV。"],
+      ["App 版還有哪些功能？", productContent.locales["zh-Hant"].web],
     ],
     ctaTitle: "線上玩數獨",
     ctaBody: "在瀏覽器中免費開始一道 9x9 數獨，可選容易、中等或困難難度，無需帳戶。",
@@ -90,7 +91,7 @@ const seoContent = {
     faqs: [
       ["無料で遊べますか？", "はい。ブラウザ版は無料で、アカウントも必要ありません。"],
       ["問題は保存されますか？", "保存されません。盤面は現在のページだけにあり、再読み込みや終了で新しいセッションになります。"],
-      ["アプリ版には何がありますか？", "Apple向けアプリでは、デイリーチャレンジ、履歴、テーマ、印刷などをiPhone、iPad、Mac、Apple TVで利用できます。"],
+      ["アプリ版には何がありますか？", productContent.locales["ja"].web],
     ],
     ctaTitle: "オンラインで数独をプレイ",
     ctaBody: "初級・中級・上級から選び、無料の9x9数独をブラウザですぐに始められます。アカウントは不要です。",
@@ -109,7 +110,7 @@ const seoContent = {
     faqs: [
       ["온라인 스도쿠는 무료인가요?", "네. 브라우저 게임은 무료이며 계정이 필요하지 않습니다."],
       ["퍼즐이 저장되나요?", "아니요. 보드는 현재 페이지에만 있으며 새로고침하거나 닫으면 새 세션이 시작됩니다."],
-      ["앱에는 어떤 기능이 있나요?", "Apple 앱은 iPhone, iPad, Mac, Apple TV에서 일일 도전, 도전 기록, 테마, 인쇄 등의 기능을 제공합니다."],
+      ["앱에는 어떤 기능이 있나요?", productContent.locales["ko"].web],
     ],
     ctaTitle: "온라인 스도쿠 플레이",
     ctaBody: "쉬움, 보통, 어려움 중에서 선택해 무료 9x9 스도쿠를 브라우저에서 시작하세요. 계정은 필요하지 않습니다.",
@@ -128,7 +129,7 @@ const seoContent = {
     faqs: [
       ["Ist das Online-Sudoku kostenlos?", "Ja. Das Spiel im Browser ist kostenlos und benötigt kein Konto."],
       ["Wird mein Rätsel gespeichert?", "Nein. Das Rätsel bleibt nur auf der aktuellen Seite. Beim Neuladen oder Schließen beginnt eine neue Sitzung."],
-      ["Was bietet die App?", "Die Apple-App ergänzt tägliche Herausforderungen, Verlauf, Designs, Drucken und weitere native Funktionen für iPhone, iPad, Mac und Apple TV."],
+      ["Was bietet die App?", productContent.locales["de"].web],
     ],
     ctaTitle: "Sudoku online spielen",
     ctaBody: "Starte kostenlos ein 9x9-Sudoku im Browser und wähle Leicht, Mittel oder Schwer. Kein Konto erforderlich.",
@@ -147,7 +148,7 @@ const seoContent = {
     faqs: [
       ["Ce Sudoku en ligne est-il gratuit ?", "Oui. Le jeu dans le navigateur est gratuit et ne demande aucun compte."],
       ["Ma grille est-elle enregistrée ?", "Non. La grille reste uniquement sur la page actuelle. La recharger ou la fermer démarre une nouvelle session."],
-      ["Que propose l’application ?", "L’app Apple ajoute les défis quotidiens, l’historique, les thèmes, l’impression et d’autres fonctions natives sur iPhone, iPad, Mac et Apple TV."],
+      ["Que propose l’application ?", productContent.locales["fr"].web],
     ],
     ctaTitle: "Jouer au Sudoku en ligne",
     ctaBody: "Lancez gratuitement une grille 9x9 dans votre navigateur en Facile, Moyen ou Difficile. Aucun compte requis.",
@@ -166,7 +167,7 @@ const seoContent = {
     faqs: [
       ["¿Este Sudoku online es gratis?", "Sí. El juego del navegador es gratuito y no necesita una cuenta."],
       ["¿Se guarda mi partida?", "No. El tablero permanece solo en la página actual. Al recargar o cerrarla comienza una sesión nueva."],
-      ["¿Qué incluye la app?", "La app de Apple añade retos diarios, historial, temas, impresión y otras funciones nativas para iPhone, iPad, Mac y Apple TV."],
+      ["¿Qué incluye la app?", productContent.locales["es"].web],
     ],
     ctaTitle: "Jugar Sudoku online",
     ctaBody: "Empieza gratis un Sudoku 9x9 en el navegador y elige Fácil, Medio o Difícil. No necesitas cuenta.",
@@ -185,7 +186,7 @@ const seoContent = {
     faqs: [
       ["Questo Sudoku online è gratuito?", "Sì. Il gioco nel browser è gratuito e non richiede un account."],
       ["Lo schema viene salvato?", "No. Lo schema resta solo nella pagina corrente. Ricaricandola o chiudendola inizia una nuova sessione."],
-      ["Cosa offre l’app?", "L’app Apple aggiunge sfide giornaliere, cronologia, temi, stampa e altre funzioni native per iPhone, iPad, Mac e Apple TV."],
+      ["Cosa offre l’app?", productContent.locales["it"].web],
     ],
     ctaTitle: "Gioca a Sudoku online",
     ctaBody: "Avvia gratis un Sudoku 9x9 nel browser e scegli Facile, Medio o Difficile. Non serve un account.",
@@ -204,7 +205,7 @@ const seoContent = {
     faqs: [
       ["Онлайн-судоку бесплатное?", "Да. Игра в браузере бесплатна и не требует учётной записи."],
       ["Сохраняется ли головоломка?", "Нет. Поле существует только на текущей странице. После перезагрузки или закрытия начнётся новый сеанс."],
-      ["Что доступно в приложении?", "Приложение Apple добавляет ежедневные испытания, историю, темы, печать и другие функции для iPhone, iPad, Mac и Apple TV."],
+      ["Что доступно в приложении?", productContent.locales["ru"].web],
     ],
     ctaTitle: "Играть в судоку онлайн",
     ctaBody: "Начните бесплатное судоку 9x9 в браузере, выбрав лёгкий, средний или сложный уровень. Регистрация не нужна.",
@@ -223,7 +224,7 @@ const seoContent = {
     faqs: [
       ["هل سودوكو عبر الإنترنت مجانية؟", "نعم. لعبة المتصفح مجانية ولا تحتاج إلى حساب."],
       ["هل يتم حفظ اللغز؟", "لا. تبقى اللوحة في الصفحة الحالية فقط، ويبدأ تشغيل جديد عند إعادة التحميل أو الإغلاق."],
-      ["ما الذي يقدمه التطبيق؟", "يضيف تطبيق Apple تحديات يومية وسجل التحديات والسمات والطباعة وميزات أصلية أخرى على iPhone وiPad وMac وApple TV."],
+      ["ما الذي يقدمه التطبيق؟", productContent.locales["ar"].web],
     ],
     ctaTitle: "العب سودوكو عبر الإنترنت",
     ctaBody: "ابدأ سودوكو 9x9 مجانية في المتصفح واختر السهل أو المتوسط أو الصعب. لا حاجة إلى حساب.",
@@ -252,6 +253,7 @@ function pageHTML(locale) {
   const homeHref = locale.folder ? `../${locale.folder}/` : "./";
   const dir = locale.dir ? ` dir="${locale.dir}"` : "";
   const content = seoContent[locale.code];
+  const product = productContent.locales[locale.code];
   const structuredData = {
     "@context": "https://schema.org",
     "@graph": [
@@ -277,6 +279,15 @@ function pageHTML(locale) {
         featureList: content.features.map(([title]) => title),
         sameAs: [appStoreURL],
         offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
+      },
+      {
+        "@type": "FAQPage",
+        "@id": `${pageURL(locale)}#faq`,
+        inLanguage: locale.code,
+        mainEntity: content.faqs.map(([question, answer]) => ({
+          "@type": "Question", name: question,
+          acceptedAnswer: { "@type": "Answer", text: answer },
+        })),
       },
     ],
   };
@@ -350,7 +361,7 @@ ${JSON.stringify(structuredData, null, 2)}
           <div id="completion-panel" class="completion-panel" role="status" hidden><strong data-i18n="complete">Puzzle complete</strong><p id="completion-text"></p></div>
           <div class="native-promo">
             <img src="${prefix}favicon/apple-touch-icon.png" alt="">
-            <div><strong data-i18n="continueApple">Continue on every Apple screen</strong><p data-i18n="appBody">Get daily challenges, history, themes, printing, and more in the app.</p><a class="button primary store" href="${appStoreURL}" target="_blank" rel="noopener"><img class="store-icon" src="${prefix}images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
+            <div><strong data-i18n="continueApple">${escapeHTML(product.name)}</strong><p data-i18n="appBody">${escapeHTML(product.promo)}</p><a class="button primary store" href="${appStoreURL}" target="_blank" rel="noopener"><img class="store-icon" src="${prefix}images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
           </div>
         </aside>
       </main>
@@ -363,6 +374,7 @@ ${JSON.stringify(structuredData, null, 2)}
       <footer class="footer">${locale.footer}</footer>
     </div>
   </div>
+  <script src="${prefix}scripts/product-copy.js" defer></script>
   <script src="${prefix}scripts/sudoku-game.js" defer></script>
 </body>
 </html>
@@ -383,6 +395,8 @@ function updateSupportingPages(locale) {
 
 function writeLlmsFile() {
   const localizedPlayPages = locales.map((locale) => `- [${locale.name}](${pageURL(locale)})`).join("\n");
+  const localizedProductPages = locales.map(locale => `- [${locale.name}](${pageURL(locale).replace(/play$/, '')}): [App help](${pageURL(locale).replace(/play$/, 'help')})`).join('\n');
+  const product = productContent.locales.en;
   const content = `# Infinity Sudoku 9x9
 
 > Infinity Sudoku is a free browser-based 9x9 Sudoku game and a native Sudoku app for iPhone, iPad, Mac, and Apple TV.
@@ -397,16 +411,28 @@ function writeLlmsFile() {
 
 ## Guides
 
-- [Daily Sudoku focus](https://inf-sudoku.luopeike.com/daily-sudoku-focus)
+- [Daily Sudoku challenges and local history](https://inf-sudoku.luopeike.com/daily-sudoku-focus)
 - [Infinite Sudoku generator](https://inf-sudoku.luopeike.com/infinite-sudoku-generator)
-- [Printable Sudoku puzzles](https://inf-sudoku.luopeike.com/printable-sudoku-puzzles)
+- [Print Sudoku on iPhone, iPad, and Mac](https://inf-sudoku.luopeike.com/printable-sudoku-puzzles)
 
 ## Product facts
 
-- The web game generates classic 9x9 Sudoku puzzles with a unique solution.
-- The browser version stores no account or puzzle history.
-- Daily challenges, challenge history, themes, printing, and other native features are available in the Apple app.
+- Content snapshot updated: ${productContent.updated}. These facts describe the native Apple app unless stated otherwise.
+- ${product.intro}
+- ${product.daily.body}
+- ${product.history}
+- ${product.candidates.body} Candidate help narrows possible numbers; it is not editable pencil notes or a step-by-step solver.
+- ${product.themes.body}
+- ${product.print}
+- ${product.platforms.mac}
+- ${product.platforms.tv}
+- ${product.web}
+- The web game generates classic 9x9 Sudoku puzzles with a unique solution. It does not offer the app's daily challenges, local completion history, theme downloads, or native printing.
 - The App Store listing is https://apps.apple.com/app/id6673897515.
+
+## Localized app information
+
+${localizedProductPages}
 
 ## Localized online game
 

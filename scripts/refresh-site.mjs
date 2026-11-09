@@ -1,6 +1,10 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
+import {updateProductPages} from './update-product-content.mjs';
+
+// Apply the same localized facts before deriving homepage guide cards.
+updateProductPages();
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const locales = [

@@ -11,9 +11,21 @@ action colors, keyboard focus, the home preview, article styles, and game contro
 Keep the existing cyan/ink app identity and real icon assets. The website remains
 a static site; no runtime framework or external font download is required.
 
-The browser game is free and uses an in-memory board. Do not imply that web games
-are saved or synchronized with the Apple app. Preserve the native download entry
-for daily challenges, history, themes, printing, and other app features.
+The browser game is free and uses an in-memory board, with notes, undo, erase,
+and a hint that reveals one correct number. It has no account or saved games.
+The Apple app adds daily challenges and local completion history (no cloud sync),
+themes, and optional candidate help (5 games per day for free; unlimited with Pro).
+Printing is available on iPhone, iPad, and Mac, not Apple TV. Core puzzles work
+offline; remote themes and Game Center need a network connection.
+
+`scripts/product-content.json` is the 11-language website product fact source.
+Its descriptions, promotional text, subtitles, and platform paragraphs were
+reviewed against the native Fastlane metadata snapshot dated 2026-11-09. Keep
+this standalone repository self-contained: review and update this snapshot when
+app behavior or metadata changes, then run the generator. Do not automatically
+import a neighboring app checkout or imply that local metadata is already live
+on the App Store. `scripts/product-copy.js` is generated for the game's native
+promotion so JavaScript cannot restore outdated claims after page load.
 
 ## Generate pages
 
@@ -22,8 +34,10 @@ node scripts/generate-play-pages.mjs
 ```
 
 This regenerates all 11 localized play pages and their supporting content, then
-applies the shared design and complete language navigation. To apply just the
-visual/navigation refresh to existing content:
+applies product content, SEO metadata, FAQ structured data, the shared design,
+and complete language navigation. It also updates `llms.txt` as an optional
+machine-readable summary, not a search-engine requirement or ranking signal.
+To refresh product pages and visual/navigation content without regenerating play:
 
 ```sh
 node scripts/refresh-site.mjs
@@ -32,7 +46,9 @@ node scripts/refresh-site.mjs
 The refresh is idempotent. It updates localized home headlines, existing guide
 links, skip links, active navigation, 11-language selectors, RTL direction, and
 the shared stylesheet reference. It preserves canonical URLs, alternate links,
-structured data, descriptions, and policy text.
+policy text. Product pages derive descriptions, structured data, and FAQ from
+the shared product source. The sitemap keeps all 88 existing URLs and marks
+only the 66 changed product/game pages with the snapshot's `lastmod` date.
 
 ## Validate and release
 

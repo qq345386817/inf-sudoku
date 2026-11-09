@@ -1,0 +1,425 @@
+{
+  "updated": "2026-11-09",
+  "appId": "6673897515",
+  "locales": {
+    "en": {
+      "storeLocale": "en-US",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "Daily Puzzles, Hints & Themes",
+      "promo": "Start a fresh 9x9 board or today's challenge. Choose Easy, Medium or Hard, track your daily streak and explore themes with optional smart candidate help.",
+      "intro": "A fresh 9x9 Sudoku, at your own pace. Infinity Sudoku combines generated boards, daily challenges and visual themes in a straightforward number puzzle. Choose Easy, Medium or Hard and fill the grid using row, column and 3x3 box logic.",
+      "daily": {
+        "title": "Make a daily puzzle habit",
+        "body": "Start today's challenge at your selected difficulty. Completed daily challenges are saved locally with their date, difficulty and completion time. Review your current and best streaks and recent completion history."
+      },
+      "candidates": {
+        "title": "Candidate help when you want it",
+        "body": "Intelligent Prediction narrows the available number choices for a cell. Free players can use it in 5 games per day; Pro removes that daily limit."
+      },
+      "themes": {
+        "title": "Choose your setting",
+        "body": "Switch between available themes and a plain board. Some themes require Pro, and remote theme downloads need an internet connection. Core puzzle play and daily puzzle generation work offline; Game Center features require a connection and sign-in. Optional Pro purchases are available."
+      },
+      "platforms": {
+        "ios": "Play with touch controls on iPhone and iPad. Print the current board through the system print interface to continue on paper with a compatible printer.",
+        "mac": "Play on Mac, preview themes in a dedicated window and print the current board through the macOS print dialog.",
+        "tv": "Play on Apple TV with the Siri Remote: move between cells and choose numbers with the directional controls. Themes bring the board to the big screen."
+      },
+      "faqTitle": "App features and common questions",
+      "platformTitle": "Choose your Apple screen",
+      "dailyHeading": "Daily Sudoku challenges and local history",
+      "printHeading": "Print Sudoku on iPhone, iPad, and Mac",
+      "questions": [
+        "How does Intelligent Prediction work?",
+        "Does challenge history sync across devices?",
+        "What can I use offline?",
+        "Which devices support printing?",
+        "How is the browser game different?"
+      ],
+      "history": "Completed challenges and streaks are saved on this device. There is no cloud sync, cross-device continuation, or replayable archive of past puzzles.",
+      "print": "Print the current board on iPhone, iPad, or Mac with a compatible printer. Apple TV does not support printing.",
+      "web": "The free browser game offers notes, undo, erase, and a hint that reveals one correct number. It requires no account and keeps the board only in the current page. The Apple app adds daily challenges, local completion history, themes, and optional candidate help; printing is available on iPhone, iPad, and Mac."
+    },
+    "zh-Hans": {
+      "storeLocale": "zh-Hans",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "每日数独挑战，候选数字与主题",
+      "promo": "从一盘全新九宫格或今日挑战开始。选择简单、中等或困难，查看每日连续完成记录，并搭配主题和可选的候选数字辅助。",
+      "intro": "一盘九宫格，按自己的节奏解。Infinity Sudoku 将随机生成的数独、每日挑战与视觉主题放在一起。选择简单、中等或困难，依据行、列和九宫的数字规则填完整盘。",
+      "daily": {
+        "title": "给每天留一道题",
+        "body": "按所选难度开始今日挑战。完成后，在本机保存日期、难度和完成时间，查看当前与最佳连续完成天数，以及近期完成记录。"
+      },
+      "candidates": {
+        "title": "需要时，看看候选数字",
+        "body": "智能预测会缩小单元格中可选的数字范围。免费用户每天可在 5 局游戏中使用；Pro 可解除这一每日限制。"
+      },
+      "themes": {
+        "title": "选择适合自己的画面",
+        "body": "在可用主题和简洁棋盘之间切换。部分主题需要 Pro，远程主题下载需要联网。核心数独玩法与每日题目生成可离线使用；Game Center 功能需要联网并登录。提供可选 Pro 内购。"
+      },
+      "platforms": {
+        "ios": "在 iPhone 和 iPad 上触控游玩。通过系统打印界面打印当前棋盘，搭配兼容打印机继续纸上解题。",
+        "mac": "在 Mac 上游玩，在独立窗口中预览主题，并通过 macOS 打印对话框打印当前棋盘。",
+        "tv": "在 Apple TV 上使用 Siri Remote 的方向控制选择格子与数字，搭配主题在大屏幕上解数独。"
+      },
+      "faqTitle": "App 功能与常见问题",
+      "platformTitle": "选择你的 Apple 设备",
+      "dailyHeading": "每日数独挑战与本机完成记录",
+      "printHeading": "在 iPhone、iPad 和 Mac 上打印数独",
+      "questions": [
+        "智能预测具体如何帮助解题？",
+        "每日挑战记录会跨设备同步吗？",
+        "哪些功能可以离线使用？",
+        "哪些设备支持打印？",
+        "网页版与 App 有什么区别？"
+      ],
+      "history": "挑战完成记录与连续完成天数保存在当前设备，不提供云同步、跨设备续玩或可回放的历史题库。",
+      "print": "在 iPhone、iPad 或 Mac 上搭配兼容打印机，可打印当前棋盘。Apple TV 不支持打印。",
+      "web": "免费网页版提供候选笔记、撤销、擦除，以及揭示一个正确数字的提示；无需账户，棋盘仅保留在当前页面。Apple App 另有每日挑战、本机完成记录、主题与可选候选数字辅助；打印适用于 iPhone、iPad 和 Mac。"
+    },
+    "zh-Hant": {
+      "storeLocale": "zh-Hant",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "每日數獨挑戰，候選數字與主題",
+      "promo": "從一盤全新九宮格或今日挑戰開始。選擇簡單、中等或困難，查看每日連續完成記錄，並搭配主題與選用的候選數字輔助。",
+      "intro": "一盤九宮格，按自己的節奏解。Infinity Sudoku 將隨機產生的數獨、每日挑戰與視覺主題放在一起。選擇簡單、中等或困難，依據行、列與九宮的數字規則填完整盤。",
+      "daily": {
+        "title": "每天留一道題",
+        "body": "按所選難度開始今日挑戰。完成後，在本機儲存日期、難度與完成時間，查看目前與最佳連續完成天數，以及近期完成記錄。"
+      },
+      "candidates": {
+        "title": "需要時，看看候選數字",
+        "body": "智慧預測會縮小儲存格中可選的數字範圍。免費使用者每天可在 5 局遊戲中使用；Pro 可解除這項每日限制。"
+      },
+      "themes": {
+        "title": "選擇適合自己的畫面",
+        "body": "在可用主題與簡潔棋盤之間切換。部分主題需要 Pro，遠端主題下載需要連線。核心數獨玩法與每日題目產生可離線使用；Game Center 功能需要連線並登入。提供選購的 Pro 內購。"
+      },
+      "platforms": {
+        "ios": "在 iPhone 與 iPad 上觸控遊玩。透過系統列印介面列印目前棋盤，搭配相容印表機繼續紙上解題。",
+        "mac": "在 Mac 上遊玩，在獨立視窗中預覽主題，並透過 macOS 列印對話框列印目前棋盤。",
+        "tv": "在 Apple TV 上使用 Siri Remote 的方向控制選擇格子與數字，搭配主題在大螢幕上解數獨。"
+      },
+      "faqTitle": "App 功能與常見問題",
+      "platformTitle": "選擇你的 Apple 裝置",
+      "dailyHeading": "每日數獨挑戰與本機完成記錄",
+      "printHeading": "在 iPhone、iPad 和 Mac 上列印數獨",
+      "questions": [
+        "智慧預測如何協助解題？",
+        "每日挑戰記錄會跨裝置同步嗎？",
+        "哪些功能可以離線使用？",
+        "哪些裝置支援列印？",
+        "網頁版與 App 有什麼不同？"
+      ],
+      "history": "挑戰完成記錄與連續完成天數儲存在目前裝置，不提供雲端同步、跨裝置接續遊玩或可重玩的歷史題庫。",
+      "print": "在 iPhone、iPad 或 Mac 上搭配相容印表機，可列印目前棋盤。Apple TV 不支援列印。",
+      "web": "免費網頁版提供候選筆記、復原、清除，以及顯示一個正確數字的提示；無需帳戶，棋盤只保留在目前頁面。Apple App 另有每日挑戰、本機完成記錄、主題與選用候選數字輔助；列印適用於 iPhone、iPad 和 Mac。"
+    },
+    "ja": {
+      "storeLocale": "ja",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "毎日の数独と候補数字・テーマ",
+      "promo": "新しい9x9の盤面や今日の数独に挑戦。初級・中級・上級を選び、連続達成記録を確認し、テーマや候補数字のサポートを活用しましょう。",
+      "intro": "9x9の数独を、自分のペースで。Infinity Sudokuは、自動生成の盤面、毎日のチャレンジ、ビジュアルテーマを楽しめる数字パズルです。初級・中級・上級から選び、行・列・3x3ブロックのルールでマスを埋めましょう。",
+      "daily": {
+        "title": "毎日の一問を習慣に",
+        "body": "選択した難易度で今日のチャレンジを開始。達成した日付、難易度、所要時間を端末内に保存し、現在と最高の連続達成日数、最近の達成履歴を確認できます。"
+      },
+      "candidates": {
+        "title": "必要なときに候補を表示",
+        "body": "スマート予測は、マスで選べる数字の候補を絞ります。無料では1日5ゲームで利用でき、Proではこの日次制限がなくなります。"
+      },
+      "themes": {
+        "title": "好みの画面で遊ぶ",
+        "body": "利用可能なテーマやシンプルな盤面を選べます。一部のテーマにはProが必要で、リモートテーマのダウンロードには通信が必要です。基本のプレイと毎日の問題生成はオフラインに対応。Game Centerには通信とサインインが必要です。任意のProアプリ内課金があります。"
+      },
+      "platforms": {
+        "ios": "iPhoneとiPadでタッチ操作。対応プリンタがあれば、システムの印刷画面から現在の盤面を印刷して紙でも遊べます。",
+        "mac": "Macでは専用ウインドウでテーマをプレビューでき、macOSの印刷ダイアログから現在の盤面を印刷できます。",
+        "tv": "Apple TVではSiri Remoteの方向操作でマスと数字を選択。テーマとともに大画面で数独を楽しめます。"
+      },
+      "faqTitle": "アプリの機能とよくある質問",
+      "platformTitle": "Appleデバイスに合わせて",
+      "dailyHeading": "毎日の数独と端末内の達成履歴",
+      "printHeading": "iPhone・iPad・Macで数独を印刷",
+      "questions": [
+        "スマート予測はどのような機能ですか？",
+        "チャレンジ履歴は端末間で同期しますか？",
+        "オフラインで何ができますか？",
+        "どのデバイスで印刷できますか？",
+        "ブラウザ版とアプリの違いは？"
+      ],
+      "history": "達成履歴と連続達成日数は現在の端末内に保存されます。クラウド同期、別の端末での続行、過去の問題を再プレイするアーカイブはありません。",
+      "print": "対応プリンタがあれば、iPhone・iPad・Macから現在の盤面を印刷できます。Apple TVは印刷に対応していません。",
+      "web": "無料のブラウザ版にはメモ、取り消し、消去、正しい数字を一つ表示するヒントがあります。アカウントは不要で、盤面は現在のページだけに保持されます。Apple向けアプリでは毎日のチャレンジ、端末内の達成履歴、テーマ、任意の候補数字サポートを利用できます。印刷はiPhone・iPad・Macに対応しています。"
+    },
+    "ko": {
+      "storeLocale": "ko",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "매일 스도쿠와 후보 숫자, 테마",
+      "promo": "새로운 9x9 보드나 오늘의 스도쿠를 시작하세요. 초급·중급·고급을 선택하고 연속 완료 기록을 확인하며 테마와 선택 가능한 후보 숫자 도움을 활용하세요.",
+      "intro": "9x9 스도쿠를 나만의 속도로 풀어보세요. Infinity Sudoku는 생성된 보드, 매일 도전, 시각적 테마를 제공하는 숫자 퍼즐입니다. 초급·중급·고급을 선택하고 행, 열, 3x3 블록의 규칙에 따라 숫자를 채우세요.",
+      "daily": {
+        "title": "매일 한 문제",
+        "body": "선택한 난이도로 오늘의 도전을 시작하세요. 완료한 날짜, 난이도, 소요 시간을 기기에 저장하고 현재와 최고 연속 완료 일수 및 최근 완료 기록을 확인할 수 있습니다."
+      },
+      "candidates": {
+        "title": "필요할 때 후보 숫자 확인",
+        "body": "스마트 예측은 칸에서 선택할 수 있는 숫자 후보를 줄여줍니다. 무료 이용자는 하루 5게임에서 사용할 수 있으며, Pro는 이 일일 제한을 해제합니다."
+      },
+      "themes": {
+        "title": "원하는 화면 선택",
+        "body": "이용 가능한 테마와 기본 보드 중에서 선택하세요. 일부 테마에는 Pro가 필요하며 원격 테마 다운로드에는 인터넷 연결이 필요합니다. 기본 플레이와 매일 문제 생성은 오프라인으로 이용할 수 있습니다. Game Center에는 연결과 로그인이 필요합니다. 선택 사항인 Pro 앱 내 구입이 제공됩니다."
+      },
+      "platforms": {
+        "ios": "iPhone과 iPad에서 터치로 플레이하세요. 호환 프린터가 있으면 시스템 인쇄 화면에서 현재 보드를 인쇄해 종이로 풀 수 있습니다.",
+        "mac": "Mac에서 별도 윈도우로 테마를 미리 보고 macOS 인쇄 대화상자에서 현재 보드를 인쇄할 수 있습니다.",
+        "tv": "Apple TV에서 Siri Remote 방향 조작으로 칸과 숫자를 선택하세요. 큰 화면에서 테마와 함께 스도쿠를 즐길 수 있습니다."
+      },
+      "faqTitle": "앱 기능과 자주 묻는 질문",
+      "platformTitle": "Apple 기기에 맞춰 즐기기",
+      "dailyHeading": "매일 스도쿠 도전과 기기 내 완료 기록",
+      "printHeading": "iPhone, iPad, Mac에서 스도쿠 인쇄",
+      "questions": [
+        "스마트 예측은 어떻게 도와주나요?",
+        "도전 기록이 기기 간에 동기화되나요?",
+        "어떤 기능을 오프라인으로 쓸 수 있나요?",
+        "어떤 기기에서 인쇄할 수 있나요?",
+        "브라우저 게임과 앱은 어떻게 다른가요?"
+      ],
+      "history": "도전 완료 기록과 연속 완료 일수는 현재 기기에 저장됩니다. 클라우드 동기화, 다른 기기에서 이어 하기, 과거 퍼즐을 다시 푸는 보관함은 제공하지 않습니다.",
+      "print": "호환 프린터가 있으면 iPhone, iPad, Mac에서 현재 보드를 인쇄할 수 있습니다. Apple TV는 인쇄를 지원하지 않습니다.",
+      "web": "무료 브라우저 게임은 메모, 실행 취소, 지우기와 정답 숫자 하나를 보여주는 힌트를 제공합니다. 계정이 필요 없으며 보드는 현재 페이지에만 유지됩니다. Apple 앱에는 일일 도전, 기기 내 완료 기록, 테마와 선택 가능한 후보 숫자 도움이 있습니다. 인쇄는 iPhone, iPad, Mac에서 지원합니다."
+    },
+    "de": {
+      "storeLocale": "de-DE",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "Tagesrätsel, Hilfe & Themen",
+      "promo": "Starte ein neues 9x9-Feld oder die Tagesaufgabe. Wähle Leicht, Mittel oder Schwer, verfolge deine tägliche Serie und nutze Themen und optionale Kandidatenhilfe.",
+      "intro": "Ein 9x9-Sudoku in deinem Tempo. Infinity Sudoku verbindet erzeugte Spielfelder, Tagesaufgaben und visuelle Themen. Wähle Leicht, Mittel oder Schwer und fülle das Feld nach den Regeln für Zeilen, Spalten und 3x3-Blöcke.",
+      "daily": {
+        "title": "Eine Aufgabe für jeden Tag",
+        "body": "Starte die Tagesaufgabe mit dem gewählten Schwierigkeitsgrad. Datum, Schwierigkeit und Dauer abgeschlossener Tagesaufgaben werden lokal gespeichert. Sieh dir deine aktuelle und beste Tagesfolge sowie kürzlich abgeschlossene Aufgaben an."
+      },
+      "candidates": {
+        "title": "Kandidatenhilfe nach Bedarf",
+        "body": "Die intelligente Vorhersage grenzt die wählbaren Zahlen einer Zelle ein. Kostenlos ist sie in 5 Spielen pro Tag nutzbar; Pro hebt dieses Tageslimit auf."
+      },
+      "themes": {
+        "title": "Dein Spielfeld gestalten",
+        "body": "Wähle ein verfügbares Thema oder das schlichte Feld. Einige Themen erfordern Pro; entfernte Themen benötigen zum Download eine Internetverbindung. Das eigentliche Spiel und die Erzeugung der Tagesaufgabe funktionieren offline. Game Center erfordert Verbindung und Anmeldung. Optionale Pro-In-App-Käufe sind verfügbar."
+      },
+      "platforms": {
+        "ios": "Spiele per Touch auf iPhone und iPad. Drucke das aktuelle Feld über den Systemdialog mit einem kompatiblen Drucker für das Spiel auf Papier aus.",
+        "mac": "Spiele auf dem Mac, betrachte Themen in einem eigenen Vorschaufenster und drucke das aktuelle Feld über den macOS-Druckdialog.",
+        "tv": "Wähle auf Apple TV Felder und Zahlen mit der Richtungssteuerung der Siri Remote. Themen begleiten dein Sudoku auf dem großen Bildschirm."
+      },
+      "faqTitle": "App-Funktionen und häufige Fragen",
+      "platformTitle": "Für deinen Apple-Bildschirm",
+      "dailyHeading": "Tägliches Sudoku und lokaler Verlauf",
+      "printHeading": "Sudoku auf iPhone, iPad und Mac drucken",
+      "questions": [
+        "Wie hilft die intelligente Vorhersage?",
+        "Wird der Verlauf zwischen Geräten synchronisiert?",
+        "Was funktioniert offline?",
+        "Welche Geräte unterstützen das Drucken?",
+        "Wie unterscheidet sich das Browserspiel von der App?"
+      ],
+      "history": "Abgeschlossene Aufgaben und Serien werden auf diesem Gerät gespeichert. Es gibt keine Cloud-Synchronisierung, geräteübergreifende Fortsetzung oder ein Archiv zum erneuten Spielen vergangener Rätsel.",
+      "print": "Drucke das aktuelle Feld auf iPhone, iPad oder Mac mit einem kompatiblen Drucker. Apple TV unterstützt kein Drucken.",
+      "web": "Das kostenlose Browserspiel bietet Notizen, Rückgängig, Löschen und einen Hinweis, der eine richtige Zahl aufdeckt. Es benötigt kein Konto und behält das Feld nur auf der aktuellen Seite. Die Apple-App ergänzt Tagesaufgaben, lokalen Abschlussverlauf, Themen und optionale Kandidatenhilfe. Drucken ist auf iPhone, iPad und Mac verfügbar."
+    },
+    "fr": {
+      "storeLocale": "fr-FR",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "Défis, indices et thèmes",
+      "promo": "Une grille 9x9 ou le défi du jour : choisissez Facile, Moyen ou Difficile, suivez votre série quotidienne et explorez les thèmes et l’aide aux candidats.",
+      "intro": "Une grille de sudoku 9x9, à votre rythme. Infinity Sudoku associe des grilles générées, des défis quotidiens et des thèmes visuels. Choisissez Facile, Moyen ou Difficile et complétez la grille selon les règles des lignes, colonnes et blocs 3x3.",
+      "daily": {
+        "title": "Un défi chaque jour",
+        "body": "Lancez le défi du jour à la difficulté choisie. La date, la difficulté et le temps des défis terminés sont enregistrés sur l’appareil. Consultez votre série actuelle, votre meilleure série et l’historique récent des défis terminés."
+      },
+      "candidates": {
+        "title": "Des candidats si vous le souhaitez",
+        "body": "La prédiction intelligente réduit les chiffres proposés pour une case. Elle est disponible dans 5 parties par jour gratuitement ; Pro supprime cette limite quotidienne."
+      },
+      "themes": {
+        "title": "Choisissez votre décor",
+        "body": "Utilisez un thème disponible ou une grille simple. Certains thèmes nécessitent Pro, et les thèmes distants doivent être téléchargés en ligne. Le jeu principal et la génération du défi quotidien fonctionnent hors ligne. Game Center nécessite une connexion et une identification. Des achats intégrés Pro facultatifs sont proposés."
+      },
+      "platforms": {
+        "ios": "Jouez au toucher sur iPhone et iPad. Avec une imprimante compatible, imprimez la grille actuelle par l’interface système pour jouer sur papier.",
+        "mac": "Sur Mac, prévisualisez les thèmes dans une fenêtre dédiée et imprimez la grille actuelle depuis la boîte de dialogue macOS.",
+        "tv": "Sur Apple TV, sélectionnez les cases et chiffres avec les commandes directionnelles de la Siri Remote, et profitez des thèmes sur grand écran."
+      },
+      "faqTitle": "Fonctions de l’app et questions fréquentes",
+      "platformTitle": "Choisissez votre écran Apple",
+      "dailyHeading": "Défis Sudoku quotidiens et historique local",
+      "printHeading": "Imprimer un Sudoku sur iPhone, iPad et Mac",
+      "questions": [
+        "Comment fonctionne la prédiction intelligente ?",
+        "L’historique est-il synchronisé entre appareils ?",
+        "Que peut-on utiliser hors ligne ?",
+        "Quels appareils permettent d’imprimer ?",
+        "Quelle est la différence avec le jeu dans le navigateur ?"
+      ],
+      "history": "Les défis terminés et les séries sont enregistrés sur cet appareil. Il n’y a pas de synchronisation cloud, de reprise sur un autre appareil ni d’archive permettant de rejouer les anciens défis.",
+      "print": "Imprimez la grille actuelle sur iPhone, iPad ou Mac avec une imprimante compatible. Apple TV ne permet pas d’imprimer.",
+      "web": "Le jeu gratuit dans le navigateur propose des notes, l’annulation, l’effacement et un indice révélant un chiffre correct. Aucun compte n’est requis ; la grille reste seulement sur la page actuelle. L’app Apple ajoute les défis quotidiens, l’historique local, les thèmes et l’aide facultative aux candidats. L’impression est disponible sur iPhone, iPad et Mac."
+    },
+    "es": {
+      "storeLocale": "es-ES",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "Retos diarios, pistas y temas",
+      "promo": "Empieza una cuadrícula 9x9 o el reto de hoy. Elige Fácil, Medio o Difícil, sigue tu racha diaria y explora temas con ayuda opcional de números candidatos.",
+      "intro": "Un sudoku 9x9 a tu ritmo. Infinity Sudoku combina cuadrículas generadas, retos diarios y temas visuales. Elige Fácil, Medio o Difícil y completa el tablero siguiendo las reglas de filas, columnas y bloques 3x3.",
+      "daily": {
+        "title": "Un reto cada día",
+        "body": "Inicia el reto de hoy con la dificultad elegida. La fecha, dificultad y duración de los retos completados se guardan en el dispositivo. Consulta tu racha actual, la mejor y el historial reciente de retos completados."
+      },
+      "candidates": {
+        "title": "Candidatos cuando los necesites",
+        "body": "La predicción inteligente reduce los números disponibles para una casilla. Gratis se puede usar en 5 partidas al día; Pro elimina ese límite diario."
+      },
+      "themes": {
+        "title": "Elige tu ambiente",
+        "body": "Selecciona un tema disponible o un tablero sencillo. Algunos temas requieren Pro y los temas remotos necesitan conexión para descargarse. El juego principal y la generación del reto diario funcionan sin conexión. Game Center requiere conexión e inicio de sesión. Hay compras opcionales de Pro dentro de la app."
+      },
+      "platforms": {
+        "ios": "Juega con controles táctiles en iPhone y iPad. Con una impresora compatible, imprime el tablero actual desde la interfaz del sistema para jugar en papel.",
+        "mac": "En Mac, previsualiza temas en una ventana dedicada e imprime el tablero actual desde el cuadro de impresión de macOS.",
+        "tv": "En Apple TV, selecciona casillas y números con los controles de dirección del Siri Remote y disfruta de los temas en la pantalla grande."
+      },
+      "faqTitle": "Funciones de la app y preguntas frecuentes",
+      "platformTitle": "Elige tu pantalla Apple",
+      "dailyHeading": "Retos diarios de Sudoku e historial local",
+      "printHeading": "Imprime Sudoku desde iPhone, iPad y Mac",
+      "questions": [
+        "¿Cómo ayuda la predicción inteligente?",
+        "¿Se sincroniza el historial entre dispositivos?",
+        "¿Qué funciones se pueden usar sin conexión?",
+        "¿Qué dispositivos permiten imprimir?",
+        "¿En qué se diferencia el juego del navegador?"
+      ],
+      "history": "Los retos completados y las rachas se guardan en este dispositivo. No hay sincronización en la nube, continuación entre dispositivos ni un archivo para volver a jugar retos anteriores.",
+      "print": "Imprime el tablero actual desde iPhone, iPad o Mac con una impresora compatible. Apple TV no permite imprimir.",
+      "web": "El juego gratuito del navegador ofrece notas, deshacer, borrar y una pista que revela un número correcto. No requiere cuenta y el tablero permanece solo en la página actual. La app de Apple añade retos diarios, historial local, temas y ayuda opcional con candidatos. La impresión está disponible en iPhone, iPad y Mac."
+    },
+    "it": {
+      "storeLocale": "it",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "Sfide, aiuti e temi quotidiani",
+      "promo": "Inizia una griglia 9x9 o la sfida di oggi. Scegli Facile, Medio o Difficile, segui la tua serie quotidiana e prova temi e aiuto facoltativo con i candidati.",
+      "intro": "Un sudoku 9x9 al tuo ritmo. Infinity Sudoku combina griglie generate, sfide quotidiane e temi visivi. Scegli Facile, Medio o Difficile e completa la griglia seguendo le regole di righe, colonne e riquadri 3x3.",
+      "daily": {
+        "title": "Una sfida ogni giorno",
+        "body": "Avvia la sfida di oggi alla difficoltà scelta. Data, difficoltà e durata delle sfide completate vengono salvate sul dispositivo. Consulta la serie attuale, la migliore e la cronologia recente delle sfide completate."
+      },
+      "candidates": {
+        "title": "Candidati quando servono",
+        "body": "La previsione intelligente restringe i numeri selezionabili in una casella. Gratis puoi usarla in 5 partite al giorno; Pro elimina questo limite giornaliero."
+      },
+      "themes": {
+        "title": "Scegli il tuo ambiente",
+        "body": "Usa un tema disponibile o una griglia semplice. Alcuni temi richiedono Pro; per scaricare temi remoti serve una connessione. Il gioco principale e la generazione della sfida quotidiana funzionano offline. Game Center richiede connessione e accesso. Sono disponibili acquisti Pro facoltativi nell’app."
+      },
+      "platforms": {
+        "ios": "Gioca con il tocco su iPhone e iPad. Con una stampante compatibile, stampa la griglia attuale dall’interfaccia di sistema per giocare su carta.",
+        "mac": "Su Mac, visualizza i temi in una finestra di anteprima dedicata e stampa la griglia attuale dalla finestra di stampa di macOS.",
+        "tv": "Su Apple TV, scegli caselle e numeri con i controlli direzionali di Siri Remote e gioca con i temi sul grande schermo."
+      },
+      "faqTitle": "Funzioni dell’app e domande frequenti",
+      "platformTitle": "Scegli il tuo schermo Apple",
+      "dailyHeading": "Sfide Sudoku quotidiane e storico locale",
+      "printHeading": "Stampa Sudoku da iPhone, iPad e Mac",
+      "questions": [
+        "Come aiuta la previsione intelligente?",
+        "Lo storico si sincronizza tra dispositivi?",
+        "Quali funzioni funzionano offline?",
+        "Quali dispositivi consentono di stampare?",
+        "Che differenza c’è con il gioco nel browser?"
+      ],
+      "history": "Le sfide completate e le serie vengono salvate su questo dispositivo. Non ci sono sincronizzazione cloud, ripresa su altri dispositivi o un archivio per rigiocare i vecchi puzzle.",
+      "print": "Stampa la griglia attuale da iPhone, iPad o Mac con una stampante compatibile. Apple TV non supporta la stampa.",
+      "web": "Il gioco gratuito nel browser offre note, annulla, cancella e un suggerimento che rivela un numero corretto. Non richiede un account e conserva la griglia solo nella pagina attuale. L’app Apple aggiunge sfide quotidiane, storico locale, temi e aiuto facoltativo con i candidati. La stampa è disponibile su iPhone, iPad e Mac."
+    },
+    "ru": {
+      "storeLocale": "ru",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "Судоку каждый день и подсказки",
+      "promo": "Начните новую сетку 9x9 или задачу дня. Выберите сложность, следите за серией ежедневных решений и пробуйте темы и помощь с числами-кандидатами.",
+      "intro": "Судоку 9x9 в вашем темпе. Infinity Sudoku объединяет генерируемые поля, ежедневные задачи и визуальные темы. Выберите лёгкий, средний или сложный уровень и заполните сетку по правилам строк, столбцов и блоков 3x3.",
+      "daily": {
+        "title": "По одной задаче каждый день",
+        "body": "Начните задачу дня на выбранном уровне. Дата, сложность и время завершённых ежедневных задач сохраняются на устройстве. Просматривайте текущую и лучшую серии, а также недавнюю историю завершённых задач."
+      },
+      "candidates": {
+        "title": "Кандидаты по желанию",
+        "body": "Умное предсказание сужает выбор чисел для клетки. Бесплатно его можно использовать в 5 играх в день; Pro снимает этот дневной лимит."
+      },
+      "themes": {
+        "title": "Выберите оформление",
+        "body": "Используйте доступную тему или простое поле. Для некоторых тем нужен Pro, а для загрузки удалённых тем — интернет. Основная игра и создание ежедневной задачи работают офлайн. Для Game Center нужны подключение и вход в учётную запись. Доступны необязательные покупки Pro в приложении."
+      },
+      "platforms": {
+        "ios": "Играйте касаниями на iPhone и iPad. С совместимым принтером можно распечатать текущее поле через системное окно печати и решать на бумаге.",
+        "mac": "На Mac просматривайте темы в отдельном окне и печатайте текущее поле через диалог macOS.",
+        "tv": "На Apple TV выбирайте клетки и числа кнопками направления Siri Remote и играйте с темами на большом экране."
+      },
+      "faqTitle": "Возможности приложения и частые вопросы",
+      "platformTitle": "Выберите устройство Apple",
+      "dailyHeading": "Ежедневное судоку и локальная история",
+      "printHeading": "Печать судоку с iPhone, iPad и Mac",
+      "questions": [
+        "Как помогает интеллектуальный прогноз?",
+        "Синхронизируется ли история между устройствами?",
+        "Что работает без интернета?",
+        "Какие устройства поддерживают печать?",
+        "Чем отличается игра в браузере?"
+      ],
+      "history": "Завершённые задания и серии сохраняются на этом устройстве. Нет облачной синхронизации, продолжения на другом устройстве или архива для повторного прохождения старых заданий.",
+      "print": "Распечатайте текущее поле с iPhone, iPad или Mac на совместимом принтере. Apple TV не поддерживает печать.",
+      "web": "Бесплатная игра в браузере предлагает заметки, отмену, стирание и подсказку, открывающую одну правильную цифру. Учётная запись не нужна, поле остаётся только на текущей странице. Приложение Apple добавляет ежедневные задания, локальную историю, темы и необязательную помощь с кандидатами. Печать доступна на iPhone, iPad и Mac."
+    },
+    "ar": {
+      "storeLocale": "ar-SA",
+      "name": "Infinity Sudoku 9x9",
+      "subtitle": "سودوكو يومي وأرقام مقترحة",
+      "promo": "ابدأ شبكة 9x9 جديدة أو تحدي اليوم. اختر سهلًا أو متوسطًا أو صعبًا، وتابع سلسلة إنجازك اليومية وجرّب السمات والمساعدة الاختيارية بالأرقام المقترحة.",
+      "intro": "سودوكو 9x9 بالوتيرة التي تناسبك. تجمع Infinity Sudoku بين شبكات مولّدة وتحديات يومية وسمات بصرية. اختر المستوى السهل أو المتوسط أو الصعب وأكمل الشبكة وفق قواعد الصفوف والأعمدة والمربعات 3x3.",
+      "daily": {
+        "title": "تحدٍّ لكل يوم",
+        "body": "ابدأ تحدي اليوم بالمستوى المختار. تُحفظ تواريخ التحديات المكتملة ومستوياتها وأوقاتها على الجهاز. راجع سلسلة إنجازك الحالية وأفضل سلسلة وسجل التحديات المكتملة مؤخرًا."
+      },
+      "candidates": {
+        "title": "أرقام مقترحة عند الحاجة",
+        "body": "يقلّل التنبؤ الذكي خيارات الأرقام المتاحة للخانة. يمكن استخدامه مجانًا في 5 ألعاب يوميًا؛ وتزيل Pro هذا الحد اليومي."
+      },
+      "themes": {
+        "title": "اختر مظهر الشبكة",
+        "body": "استخدم سمة متاحة أو شبكة بسيطة. تتطلب بعض السمات Pro، ويتطلب تنزيل السمات البعيدة اتصالًا بالإنترنت. يعمل اللعب الأساسي وتوليد تحدي اليوم دون اتصال؛ وتتطلب ميزات Game Center الاتصال وتسجيل الدخول. تتوفر مشتريات Pro اختيارية داخل التطبيق."
+      },
+      "platforms": {
+        "ios": "العب باللمس على iPhone وiPad. مع طابعة متوافقة، اطبع الشبكة الحالية من واجهة النظام لمتابعة الحل على الورق.",
+        "mac": "على Mac، عاين السمات في نافذة مخصصة واطبع الشبكة الحالية من مربع حوار الطباعة في macOS.",
+        "tv": "على Apple TV، اختر الخانات والأرقام باستخدام أزرار الاتجاه في Siri Remote واستمتع بالسمات على الشاشة الكبيرة."
+      },
+      "faqTitle": "ميزات التطبيق والأسئلة الشائعة",
+      "platformTitle": "اختر جهاز Apple المناسب",
+      "dailyHeading": "تحديات سودوكو اليومية والسجل المحلي",
+      "printHeading": "اطبع سودوكو من iPhone وiPad وMac",
+      "questions": [
+        "كيف يساعد التنبؤ الذكي؟",
+        "هل يتزامن سجل التحديات بين الأجهزة؟",
+        "ما الميزات التي تعمل دون اتصال؟",
+        "ما الأجهزة التي تدعم الطباعة؟",
+        "كيف تختلف لعبة المتصفح عن التطبيق؟"
+      ],
+      "history": "تُحفظ التحديات المكتملة وسلاسل الإنجاز على هذا الجهاز. لا توجد مزامنة سحابية أو متابعة على جهاز آخر أو أرشيف لإعادة لعب الألغاز السابقة.",
+      "print": "اطبع الشبكة الحالية من iPhone أو iPad أو Mac باستخدام طابعة متوافقة. لا يدعم Apple TV الطباعة.",
+      "web": "توفر لعبة المتصفح المجانية الملاحظات والتراجع والمسح وتلميحًا يكشف رقمًا صحيحًا واحدًا. لا تحتاج إلى حساب، وتبقى الشبكة في الصفحة الحالية فقط. يضيف تطبيق Apple التحديات اليومية والسجل المحلي والسمات والمساعدة الاختيارية بالأرقام المقترحة. تتوفر الطباعة على iPhone وiPad وMac."
+    }
+  }
+}
+

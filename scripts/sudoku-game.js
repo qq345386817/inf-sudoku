@@ -5,7 +5,7 @@
     en: {
       playTitle: "Play Sudoku", intro: "A fresh puzzle, a quiet screen, and no account required.", easy: "Easy", medium: "Medium", hard: "Hard",
       difficulty: "Difficulty", numberInput: "Number input", undo: "Undo", notes: "Notes", erase: "Erase", hint: "Hint", newPuzzle: "New puzzle",
-      continueApple: "Continue on every Apple screen", appBody: "Get daily challenges, history, themes, printing, and more in the app.", download: "Download on the App Store",
+      download: "Download on the App Store",
       boardLabel: "Sudoku puzzle", ready: "Select a cell, then enter a number.", generating: "Preparing a fresh puzzle…", noUndo: "Nothing to undo yet.",
       chooseCell: "Choose an empty cell first.", noteOn: "Notes are on.", noteOff: "Notes are off.", hintPlaced: "A correct number was revealed.",
       complete: "Puzzle complete", completeBody: "Beautifully solved in {time}.", howTitle: "Sudoku that starts instantly", howBody: "Choose a difficulty and play in your browser. Use Notes for candidates, Hint when you are stuck, or the keyboard for a faster flow. Your board stays only in this page and is not saved.",
@@ -14,7 +14,7 @@
     "zh-Hans": {
       playTitle: "在线玩数独", intro: "打开即玩，无需账户，也不会保存棋盘记录。", easy: "容易", medium: "中等", hard: "困难",
       difficulty: "难度", numberInput: "数字输入", undo: "撤销", notes: "候选", erase: "擦除", hint: "提示", newPuzzle: "新棋盘",
-      continueApple: "在所有 Apple 设备上继续", appBody: "在 App 中体验每日挑战、历史记录、主题、打印等更多功能。", download: "在 App Store 下载",
+      download: "在 App Store 下载",
       boardLabel: "数独棋盘", ready: "选择一个格子，然后输入数字。", generating: "正在生成新棋盘…", noUndo: "暂无可撤销的操作。",
       chooseCell: "请先选择一个空格。", noteOn: "候选模式已开启。", noteOff: "候选模式已关闭。", hintPlaced: "已填入一个正确数字。",
       complete: "挑战完成", completeBody: "用时 {time}，漂亮地完成了棋盘。", howTitle: "打开网页，立即开始数独", howBody: "选择难度即可在浏览器中游玩。候选模式可以记录数字，卡住时可以使用提示，也支持键盘操作。棋盘只保留在当前页面，不会保存。",
@@ -23,7 +23,7 @@
     "zh-Hant": {
       playTitle: "線上玩數獨", intro: "開啟即玩，無需帳戶，也不會儲存棋盤記錄。", easy: "容易", medium: "中等", hard: "困難",
       difficulty: "難度", numberInput: "數字輸入", undo: "復原", notes: "候選", erase: "清除", hint: "提示", newPuzzle: "新棋盤",
-      continueApple: "在所有 Apple 裝置上繼續", appBody: "在 App 中體驗每日挑戰、歷史記錄、主題、列印等更多功能。", download: "在 App Store 下載",
+      download: "在 App Store 下載",
       boardLabel: "數獨棋盤", ready: "選擇一個格子，然後輸入數字。", generating: "正在產生新棋盤…", noUndo: "暫無可復原的操作。",
       chooseCell: "請先選擇一個空格。", noteOn: "候選模式已開啟。", noteOff: "候選模式已關閉。", hintPlaced: "已填入一個正確數字。",
       complete: "挑戰完成", completeBody: "用時 {time}，漂亮地完成了棋盤。", howTitle: "開啟網頁，立即開始數獨", howBody: "選擇難度即可在瀏覽器中遊玩。候選模式可記錄數字，卡住時可使用提示，也支援鍵盤操作。棋盤只保留在目前頁面，不會儲存。",
@@ -32,7 +32,7 @@
     ja: {
       playTitle: "数独をプレイ", intro: "アカウント不要。開いてすぐに静かな一局を楽しめます。", easy: "初級", medium: "中級", hard: "上級",
       difficulty: "難易度", numberInput: "数字入力", undo: "元に戻す", notes: "メモ", erase: "消去", hint: "ヒント", newPuzzle: "新しい問題",
-      continueApple: "すべてのAppleデバイスで続ける", appBody: "アプリではデイリーチャレンジ、履歴、テーマ、印刷などを利用できます。", download: "App Storeからダウンロード",
+      download: "App Storeからダウンロード",
       boardLabel: "数独盤", ready: "マスを選んで数字を入力してください。", generating: "新しい問題を準備中…", noUndo: "元に戻せる操作はありません。",
       chooseCell: "先に空いているマスを選んでください。", noteOn: "メモがオンです。", noteOff: "メモがオフです。", hintPlaced: "正しい数字を1つ表示しました。",
       complete: "完成しました", completeBody: "{time}で美しく解けました。", howTitle: "すぐに始められる数独", howBody: "難易度を選んでブラウザですぐにプレイ。メモ、ヒント、キーボード操作に対応しています。盤面はこのページだけに保持され、保存されません。",
@@ -41,7 +41,7 @@
     ko: {
       playTitle: "스도쿠 플레이", intro: "계정 없이 바로 시작하는 조용한 스도쿠 한 판.", easy: "쉬움", medium: "보통", hard: "어려움",
       difficulty: "난이도", numberInput: "숫자 입력", undo: "실행 취소", notes: "메모", erase: "지우기", hint: "힌트", newPuzzle: "새 퍼즐",
-      continueApple: "모든 Apple 화면에서 계속", appBody: "앱에서 오늘의 도전, 기록, 테마, 인쇄 등 더 많은 기능을 만나보세요.", download: "App Store에서 다운로드",
+      download: "App Store에서 다운로드",
       boardLabel: "스도쿠 보드", ready: "칸을 선택하고 숫자를 입력하세요.", generating: "새 퍼즐을 준비하는 중…", noUndo: "취소할 동작이 없습니다.",
       chooseCell: "빈 칸을 먼저 선택하세요.", noteOn: "메모가 켜졌습니다.", noteOff: "메모가 꺼졌습니다.", hintPlaced: "정답 숫자 하나를 표시했습니다.",
       complete: "퍼즐 완성", completeBody: "{time} 만에 멋지게 풀었습니다.", howTitle: "바로 시작하는 스도쿠", howBody: "난이도를 선택해 브라우저에서 플레이하세요. 메모, 힌트, 키보드 입력을 지원합니다. 보드는 현재 페이지에만 유지되며 저장되지 않습니다.",
@@ -50,7 +50,7 @@
     de: {
       playTitle: "Sudoku spielen", intro: "Ein neues Rätsel, ein ruhiger Bildschirm und kein Konto nötig.", easy: "Leicht", medium: "Mittel", hard: "Schwer",
       difficulty: "Schwierigkeit", numberInput: "Zahleneingabe", undo: "Zurück", notes: "Notizen", erase: "Löschen", hint: "Hinweis", newPuzzle: "Neues Rätsel",
-      continueApple: "Auf jedem Apple Bildschirm weiterspielen", appBody: "Tägliche Herausforderungen, Verlauf, Designs, Drucken und mehr gibt es in der App.", download: "Im App Store laden",
+      download: "Im App Store laden",
       boardLabel: "Sudoku-Raster", ready: "Wähle ein Feld und gib eine Zahl ein.", generating: "Ein neues Rätsel wird vorbereitet…", noUndo: "Noch nichts zum Rückgängigmachen.",
       chooseCell: "Wähle zuerst ein leeres Feld.", noteOn: "Notizen sind aktiviert.", noteOff: "Notizen sind deaktiviert.", hintPlaced: "Eine richtige Zahl wurde aufgedeckt.",
       complete: "Rätsel gelöst", completeBody: "Wunderschön gelöst in {time}.", howTitle: "Sudoku, das sofort startet", howBody: "Wähle eine Schwierigkeit und spiele im Browser. Nutze Notizen, Hinweise oder die Tastatur. Das Spielfeld bleibt nur auf dieser Seite und wird nicht gespeichert.",
@@ -59,7 +59,7 @@
     fr: {
       playTitle: "Jouer au Sudoku", intro: "Une nouvelle grille, un écran paisible et aucun compte requis.", easy: "Facile", medium: "Moyen", hard: "Difficile",
       difficulty: "Difficulté", numberInput: "Saisie des chiffres", undo: "Annuler", notes: "Notes", erase: "Effacer", hint: "Indice", newPuzzle: "Nouvelle grille",
-      continueApple: "Continuez sur tous vos écrans Apple", appBody: "Retrouvez les défis quotidiens, l’historique, les thèmes, l’impression et plus encore dans l’app.", download: "Télécharger sur l’App Store",
+      download: "Télécharger sur l’App Store",
       boardLabel: "Grille de Sudoku", ready: "Sélectionnez une case, puis saisissez un chiffre.", generating: "Préparation d’une nouvelle grille…", noUndo: "Rien à annuler pour le moment.",
       chooseCell: "Choisissez d’abord une case vide.", noteOn: "Les notes sont activées.", noteOff: "Les notes sont désactivées.", hintPlaced: "Un chiffre correct a été révélé.",
       complete: "Grille terminée", completeBody: "Résolue avec élégance en {time}.", howTitle: "Un Sudoku qui démarre instantanément", howBody: "Choisissez une difficulté et jouez dans votre navigateur. Utilisez les notes, un indice ou le clavier. Votre grille reste uniquement sur cette page et n’est pas enregistrée.",
@@ -68,7 +68,7 @@
     es: {
       playTitle: "Jugar Sudoku", intro: "Un tablero nuevo, una pantalla tranquila y sin necesidad de cuenta.", easy: "Fácil", medium: "Medio", hard: "Difícil",
       difficulty: "Dificultad", numberInput: "Entrada de números", undo: "Deshacer", notes: "Notas", erase: "Borrar", hint: "Pista", newPuzzle: "Nuevo tablero",
-      continueApple: "Continúa en todas tus pantallas Apple", appBody: "Disfruta de desafíos diarios, historial, temas, impresión y más en la app.", download: "Descargar en App Store",
+      download: "Descargar en App Store",
       boardLabel: "Tablero de Sudoku", ready: "Elige una casilla e introduce un número.", generating: "Preparando un tablero nuevo…", noUndo: "Todavía no hay nada que deshacer.",
       chooseCell: "Elige primero una casilla vacía.", noteOn: "Las notas están activadas.", noteOff: "Las notas están desactivadas.", hintPlaced: "Se ha revelado un número correcto.",
       complete: "Tablero completado", completeBody: "Resuelto con elegancia en {time}.", howTitle: "Sudoku listo al instante", howBody: "Elige una dificultad y juega en el navegador. Usa notas, pistas o el teclado. El tablero solo permanece en esta página y no se guarda.",
@@ -77,7 +77,7 @@
     it: {
       playTitle: "Gioca a Sudoku", intro: "Un nuovo schema, uno schermo tranquillo e nessun account richiesto.", easy: "Facile", medium: "Medio", hard: "Difficile",
       difficulty: "Difficoltà", numberInput: "Inserimento numeri", undo: "Annulla", notes: "Note", erase: "Cancella", hint: "Suggerimento", newPuzzle: "Nuovo schema",
-      continueApple: "Continua su ogni schermo Apple", appBody: "Sfide giornaliere, cronologia, temi, stampa e altro ancora sono disponibili nell’app.", download: "Scarica su App Store",
+      download: "Scarica su App Store",
       boardLabel: "Griglia Sudoku", ready: "Seleziona una casella e inserisci un numero.", generating: "Preparazione di un nuovo schema…", noUndo: "Niente da annullare per ora.",
       chooseCell: "Seleziona prima una casella vuota.", noteOn: "Le note sono attive.", noteOff: "Le note sono disattivate.", hintPlaced: "È stato rivelato un numero corretto.",
       complete: "Schema completato", completeBody: "Risolto magnificamente in {time}.", howTitle: "Sudoku pronto all’istante", howBody: "Scegli una difficoltà e gioca nel browser. Usa note, suggerimenti o la tastiera. Lo schema resta solo in questa pagina e non viene salvato.",
@@ -86,7 +86,7 @@
     ru: {
       playTitle: "Играть в судоку", intro: "Новая головоломка, спокойный экран и никакой регистрации.", easy: "Легко", medium: "Средне", hard: "Сложно",
       difficulty: "Сложность", numberInput: "Ввод цифр", undo: "Отменить", notes: "Заметки", erase: "Стереть", hint: "Подсказка", newPuzzle: "Новая игра",
-      continueApple: "Продолжайте на любом устройстве Apple", appBody: "Ежедневные испытания, история, темы, печать и другие функции доступны в приложении.", download: "Загрузить в App Store",
+      download: "Загрузить в App Store",
       boardLabel: "Поле судоку", ready: "Выберите клетку и введите цифру.", generating: "Готовим новую головоломку…", noUndo: "Отменять пока нечего.",
       chooseCell: "Сначала выберите пустую клетку.", noteOn: "Заметки включены.", noteOff: "Заметки выключены.", hintPlaced: "Открыта одна правильная цифра.",
       complete: "Головоломка решена", completeBody: "Прекрасный результат за {time}.", howTitle: "Судоку, которое запускается сразу", howBody: "Выберите сложность и играйте в браузере. Используйте заметки, подсказки или клавиатуру. Поле хранится только на этой странице и не сохраняется.",
@@ -95,7 +95,7 @@
     ar: {
       playTitle: "العب سودوكو", intro: "لغز جديد وشاشة هادئة من دون الحاجة إلى حساب.", easy: "سهل", medium: "متوسط", hard: "صعب",
       difficulty: "الصعوبة", numberInput: "إدخال الأرقام", undo: "تراجع", notes: "ملاحظات", erase: "مسح", hint: "تلميح", newPuzzle: "لغز جديد",
-      continueApple: "تابع على كل شاشات Apple", appBody: "استمتع بالتحديات اليومية والسجل والسمات والطباعة والمزيد في التطبيق.", download: "تنزيل من App Store",
+      download: "تنزيل من App Store",
       boardLabel: "لوحة سودوكو", ready: "اختر خانة ثم أدخل رقمًا.", generating: "جارٍ إعداد لغز جديد…", noUndo: "لا يوجد ما يمكن التراجع عنه بعد.",
       chooseCell: "اختر خانة فارغة أولًا.", noteOn: "وضع الملاحظات مفعّل.", noteOff: "وضع الملاحظات متوقف.", hintPlaced: "تم إظهار رقم صحيح.",
       complete: "اكتمل اللغز", completeBody: "تم الحل بإتقان خلال {time}.", howTitle: "سودوكو يبدأ فورًا", howBody: "اختر مستوى الصعوبة والعب في المتصفح. استخدم الملاحظات أو التلميح أو لوحة المفاتيح. تبقى اللوحة في هذه الصفحة فقط ولا يتم حفظها.",
@@ -105,7 +105,8 @@
 
   const htmlLanguage = document.documentElement.lang || "en";
   const language = translations[htmlLanguage] ? htmlLanguage : htmlLanguage.split("-")[0];
-  const t = translations[language] || translations.en;
+  const productCopy = window.InfinitySudokuProductCopy || {};
+  const t = {...(translations[language] || translations.en), ...(productCopy[language] || productCopy.en)};
   const difficultyBlanks = { easy: 38, medium: 46, hard: 52 };
   const boardElement = document.querySelector("#sudoku-board");
   const gameRoot = document.querySelector("#sudoku-game");
