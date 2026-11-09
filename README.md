@@ -59,3 +59,10 @@ Keep browser screenshots, traces, and temporary QA reports outside this reposito
 
 Publish static public files through the existing Cloudflare Pages project. The
 repository's scripts and documentation are development sources, not web pages.
+
+Keep the root `404.html`: it disables Cloudflare Pages' implicit SPA fallback, so
+unknown paths return HTTP 404 instead of duplicating the homepage with HTTP 200.
+The error page uses root-relative assets and links so it also works for missing
+localized or deeply nested URLs. It is excluded from the sitemap and generators.
+After deployment, verify both real pages (200) and unknown paths (404) on the
+custom domain; a local static server alone cannot confirm Pages routing behavior.

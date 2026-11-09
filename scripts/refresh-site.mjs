@@ -35,7 +35,7 @@ for (const [code, folder, , heading, caption, guideHeading, skip] of locales) {
     return label;
   });
   const directory = path.join(root, folder);
-  for (const filename of fs.readdirSync(directory).filter(name => name.endsWith('.html') && !name.startsWith('google'))) {
+  for (const filename of fs.readdirSync(directory).filter(name => name.endsWith('.html') && name !== '404.html' && !name.startsWith('google'))) {
     const file = path.join(directory, filename);
     let html = fs.readFileSync(file, 'utf8');
     const route = filename === 'index.html' ? '' : filename.replace(/\.html$/, '');
