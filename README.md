@@ -11,6 +11,9 @@ action colors, keyboard focus, the home preview, article styles, and game contro
 Keep the existing cyan/ink app identity and real icon assets. The website remains
 a static site; no runtime framework or external font download is required.
 
+The editable [design reference](docs/design/README.md) and token inventory live
+in this repository. Production HTML and CSS are the implemented design.
+
 The browser game is free and uses an in-memory board, with notes, undo, erase,
 and a hint that reveals one correct number. It has no account or saved games.
 The Apple app adds daily challenges and local completion history (no cloud sync),
