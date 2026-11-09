@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Infinity Sudoku 9x9 ist eine ruhige Sudoku-App für iPhone, iPad, Mac und Apple TV mit endlosen Rätseln, Schwierigkeit, Designs, Drucken, Punkten und intelligenter Vorhersage.">
+  <meta name="description" content="Starte ein neues 9x9-Feld oder die Tagesaufgabe. Wähle Leicht, Mittel oder Schwer, verfolge deine tägliche Serie und nutze Themen und optionale Kandidatenhilfe.">
   <meta name="robots" content="index,follow">
-  <meta property="og:title" content="Infinity Sudoku 9x9 | Ein ruhiger Sudoku-Ort für tägliche Konzentration.">
-  <meta property="og:description" content="Infinity Sudoku 9x9 ist eine ruhige Sudoku-App für iPhone, iPad, Mac und Apple TV mit endlosen Rätseln, Schwierigkeit, Designs, Drucken, Punkten und intelligenter Vorhersage.">
+  <meta property="og:title" content="Infinity Sudoku 9x9 | Tagesrätsel, Hilfe &amp; Themen">
+  <meta property="og:description" content="Starte ein neues 9x9-Feld oder die Tagesaufgabe. Wähle Leicht, Mittel oder Schwer, verfolge deine tägliche Serie und nutze Themen und optionale Kandidatenhilfe.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://inf-sudoku.luopeike.com/de/">
   <meta property="og:image" content="https://inf-sudoku.luopeike.com/favicon/android-chrome-512x512.png">
@@ -32,17 +32,31 @@
   <link rel="manifest" href="../favicon/site.webmanifest">
   <meta name="theme-color" content="#0f8fb8">
   <link rel="stylesheet" href="../style/base.css">
-  <title>Infinity Sudoku 9x9 | Ein ruhiger Sudoku-Ort für tägliche Konzentration.</title>
+  <title>Infinity Sudoku 9x9 | Tagesrätsel, Hilfe &amp; Themen</title>
+  <link rel="stylesheet" href="../style/refresh.css">
+  <meta name="twitter:title" content="Infinity Sudoku 9x9 | Tagesrätsel, Hilfe &amp; Themen">
+  <meta name="twitter:description" content="Starte ein neues 9x9-Feld oder die Tagesaufgabe. Wähle Leicht, Mittel oder Schwer, verfolge deine tägliche Serie und nutze Themen und optionale Kandidatenhilfe.">
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
+  "@id": "https://inf-sudoku.luopeike.com/de/#app",
   "name": "Infinity Sudoku 9x9",
-  "description": "Infinity Sudoku 9x9 ist eine ruhige Sudoku-App für iPhone, iPad, Mac und Apple TV mit endlosen Rätseln, Schwierigkeit, Designs, Drucken, Punkten und intelligenter Vorhersage.",
+  "description": "Starte ein neues 9x9-Feld oder die Tagesaufgabe. Wähle Leicht, Mittel oder Schwer, verfolge deine tägliche Serie und nutze Themen und optionale Kandidatenhilfe.",
   "url": "https://inf-sudoku.luopeike.com/de/",
+  "inLanguage": "de",
   "applicationCategory": "GameApplication",
   "operatingSystem": "iOS, iPadOS, macOS, tvOS",
   "image": "https://inf-sudoku.luopeike.com/favicon/android-chrome-512x512.png",
+  "sameAs": [
+    "https://apps.apple.com/app/id6673897515"
+  ],
+  "featureList": [
+    "Starte die Tagesaufgabe mit dem gewählten Schwierigkeitsgrad. Datum, Schwierigkeit und Dauer abgeschlossener Tagesaufgaben werden lokal gespeichert. Sieh dir deine aktuelle und beste Tagesfolge sowie kürzlich abgeschlossene Aufgaben an.",
+    "Die intelligente Vorhersage grenzt die wählbaren Zahlen einer Zelle ein. Kostenlos ist sie in 5 Spielen pro Tag nutzbar; Pro hebt dieses Tageslimit auf.",
+    "Wähle ein verfügbares Thema oder das schlichte Feld. Einige Themen erfordern Pro; entfernte Themen benötigen zum Download eine Internetverbindung. Das eigentliche Spiel und die Erzeugung der Tagesaufgabe funktionieren offline. Game Center erfordert Verbindung und Anmeldung. Optionale Pro-In-App-Käufe sind verfügbar.",
+    "Drucke das aktuelle Feld auf iPhone, iPad oder Mac mit einem kompatiblen Drucker. Apple TV unterstützt kein Drucken."
+  ],
   "offers": {
     "@type": "Offer",
     "price": "0",
@@ -50,7 +64,6 @@
   }
 }
   </script>
-  <link rel="stylesheet" href="../style/refresh.css">
 </head>
 <body data-site-design="focus-2026">
   <a class="skip-link" href="#main-content">Zum Inhalt</a>
@@ -68,7 +81,7 @@
           <div class="hero-copy">
             <p class="kicker">Endloses 9x9 Sudoku</p>
             <h1><span>Ein Rätsel.</span><span>Ein klarer Kopf.</span></h1>
-            <p class="lead">Spiele frisch generierte Sudoku-Rätsel auf iPhone, iPad, Mac und Apple TV mit klaren Schwierigkeitsstufen, ruhigen Designs, Drucken, Punkten und intelligenter Vorhersage.</p>
+            <p class="lead">Ein 9x9-Sudoku in deinem Tempo. Infinity Sudoku verbindet erzeugte Spielfelder, Tagesaufgaben und visuelle Themen. Wähle Leicht, Mittel oder Schwer und fülle das Feld nach den Regeln für Zeilen, Spalten und 3x3-Blöcke.</p>
             <div class="actions"><a class="button web-play" href="play">Spielen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a><a class="button secondary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt="">Im App Store laden</a></div>
             <p class="platforms">iPhone · iPad · Mac · Apple TV</p>
           </div>
@@ -77,8 +90,9 @@
             <div class="stats"><span>Leicht</span><span>Mittel</span><span>Schwer</span></div><div class="preview-caption"><span>Kostenlos spielen · Ohne Konto</span><a href="play">Spielen<span aria-hidden="true">↗</span></a></div>
           </div>
         </section>
-        <section class="section"><span class="section-index" aria-hidden="true">01</span><h2>Für beständige Rätselpraxis</h2><div class="feature-grid"><article class="feature"><strong>Jederzeit neue Rätsel</strong><p>Einfache, mittlere und schwere Bretter werden fortlaufend erzeugt, damit immer eine neue Herausforderung bereitsteht.</p></article><article class="feature"><strong>Visuelle Ruhe beim Lösen</strong><p>Tusche, Bambus, Winterpflaume, Skyline, Wald und klassische Kunst passen zu Icon und App-UI.</p></article><article class="feature"><strong>Nützlich ohne Ablenkung</strong><p>Drucken, Punkte und intelligente Vorhersage helfen genau dann, wenn du sie brauchst.</p></article></div></section>
-      <section class="section guides-section"><span class="section-index" aria-hidden="true">02</span><h2>Sudoku-Ratgeber</h2><div class="feature-grid"><article class="feature guide-card"><strong><a href="daily-sudoku-focus">Taeglicher Sudoku-Fokus</a></strong><p>Kurze Sudoku-Runden trainieren Beobachtung, Geduld und logischen Fokus ohne unnoetigen Druck.</p></article><article class="feature guide-card"><strong><a href="printable-sudoku-puzzles">Druckbare Sudoku-Raetsel</a></strong><p>Drucke ein frisches Sudoku-Brett aus Infinity Sudoku und loese es abseits des Bildschirms auf Papier.</p></article><article class="feature guide-card"><strong><a href="infinite-sudoku-generator">Unendlicher Sudoku-Generator</a></strong><p>Warum generierte Sudoku-Bretter die Uebung auf Easy, Medium und Hard frisch halten.</p></article></div></section>
+        <section class="section"><span class="section-index" aria-hidden="true">01</span><h2>Für beständige Rätselpraxis</h2><div class="feature-grid"><article class="feature"><strong>Eine Aufgabe für jeden Tag</strong><p>Starte die Tagesaufgabe mit dem gewählten Schwierigkeitsgrad. Datum, Schwierigkeit und Dauer abgeschlossener Tagesaufgaben werden lokal gespeichert. Sieh dir deine aktuelle und beste Tagesfolge sowie kürzlich abgeschlossene Aufgaben an.</p></article><article class="feature"><strong>Kandidatenhilfe nach Bedarf</strong><p>Die intelligente Vorhersage grenzt die wählbaren Zahlen einer Zelle ein. Kostenlos ist sie in 5 Spielen pro Tag nutzbar; Pro hebt dieses Tageslimit auf.</p></article><article class="feature"><strong>Dein Spielfeld gestalten</strong><p>Wähle ein verfügbares Thema oder das schlichte Feld. Einige Themen erfordern Pro; entfernte Themen benötigen zum Download eine Internetverbindung. Das eigentliche Spiel und die Erzeugung der Tagesaufgabe funktionieren offline. Game Center erfordert Verbindung und Anmeldung. Optionale Pro-In-App-Käufe sind verfügbar.</p></article></div></section>
+      <!-- APP_PLATFORMS_START --><section class="section"><span class="section-index" aria-hidden="true">02</span><h2>Für deinen Apple-Bildschirm</h2><div class="feature-grid"><article class="feature"><strong>iPhone · iPad</strong><p>Spiele per Touch auf iPhone und iPad. Drucke das aktuelle Feld über den Systemdialog mit einem kompatiblen Drucker für das Spiel auf Papier aus.</p></article><article class="feature"><strong>Mac</strong><p>Spiele auf dem Mac, betrachte Themen in einem eigenen Vorschaufenster und drucke das aktuelle Feld über den macOS-Druckdialog.</p></article><article class="feature"><strong>Apple TV</strong><p>Wähle auf Apple TV Felder und Zahlen mit der Richtungssteuerung der Siri Remote. Themen begleiten dein Sudoku auf dem großen Bildschirm.</p></article></div><p>Drucke das aktuelle Feld auf iPhone, iPad oder Mac mit einem kompatiblen Drucker. Apple TV unterstützt kein Drucken.</p></section><!-- APP_PLATFORMS_END -->
+        <section class="section guides-section"><span class="section-index" aria-hidden="true">03</span><h2>Sudoku-Ratgeber</h2><div class="feature-grid"><article class="feature guide-card"><strong><a href="daily-sudoku-focus">Tägliches Sudoku und lokaler Verlauf</a></strong><p>Starte die Tagesaufgabe mit dem gewählten Schwierigkeitsgrad. Datum, Schwierigkeit und Dauer abgeschlossener Tagesaufgaben werden lokal gespeichert. Sieh dir deine aktuelle und beste Tagesfolge sowie kürzlich abgeschlossene Aufgaben an.</p></article><article class="feature guide-card"><strong><a href="printable-sudoku-puzzles">Sudoku auf iPhone, iPad und Mac drucken</a></strong><p>Drucke das aktuelle Feld auf iPhone, iPad oder Mac mit einem kompatiblen Drucker. Apple TV unterstützt kein Drucken.</p></article><article class="feature guide-card"><strong><a href="infinite-sudoku-generator">Unendlicher Sudoku-Generator</a></strong><p>Ein 9x9-Sudoku in deinem Tempo. Infinity Sudoku verbindet erzeugte Spielfelder, Tagesaufgaben und visuelle Themen. Wähle Leicht, Mittel oder Schwer und fülle das Feld nach den Regeln für Zeilen, Spalten und 3x3-Blöcke.</p></article></div></section>
       </main>
       <footer class="footer"><span>Infinity Sudoku 9x9 - ruhiges endloses Sudoku für Apple-Geräte.</span><a href="play">Spielen<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>

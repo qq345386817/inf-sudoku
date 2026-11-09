@@ -71,6 +71,37 @@
         "price": "0",
         "priceCurrency": "USD"
       }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://inf-sudoku.luopeike.com/fr/play#faq",
+      "inLanguage": "fr",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ce Sudoku en ligne est-il gratuit ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Le jeu dans le navigateur est gratuit et ne demande aucun compte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ma grille est-elle enregistrée ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non. La grille reste uniquement sur la page actuelle. La recharger ou la fermer démarre une nouvelle session."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Que propose l’application ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le jeu gratuit dans le navigateur propose des notes, l’annulation, l’effacement et un indice révélant un chiffre correct. Aucun compte n’est requis ; la grille reste seulement sur la page actuelle. L’app Apple ajoute les défis quotidiens, l’historique local, les thèmes et l’aide facultative aux candidats. L’impression est disponible sur iPhone, iPad et Mac."
+          }
+        }
+      ]
     }
   ]
 }
@@ -128,19 +159,20 @@
           <div id="completion-panel" class="completion-panel" role="status" hidden><strong data-i18n="complete">Puzzle complete</strong><p id="completion-text"></p></div>
           <div class="native-promo">
             <img src="../favicon/apple-touch-icon.png" alt="">
-            <div><strong data-i18n="continueApple">Continue on every Apple screen</strong><p data-i18n="appBody">Get daily challenges, history, themes, printing, and more in the app.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
+            <div><strong data-i18n="continueApple">Infinity Sudoku 9x9</strong><p data-i18n="appBody">Une grille 9x9 ou le défi du jour : choisissez Facile, Moyen ou Difficile, suivez votre série quotidienne et explorez les thèmes et l’aide aux candidats.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
           </div>
         </aside>
       </main>
       <section class="play-copy" aria-labelledby="play-copy-heading">
         <div class="play-copy-intro"><h2 id="play-copy-heading">Sudoku 9x9 gratuit en ligne</h2><p>Jouez directement dans votre navigateur à une grille de Sudoku classique nouvellement générée. Chaque grille 9x9 possède une solution unique, sans inscription, téléchargement ni historique enregistré.</p></div>
         <div class="play-guide" aria-labelledby="play-features-heading"><h2 id="play-features-heading">Résolvez à votre façon</h2><div class="play-feature-grid"><article><h3>Trois niveaux</h3><p>Commencez en Facile, passez à Moyen ou choisissez Difficile avec moins de chiffres donnés.</p></article><article><h3>Notes et indices</h3><p>Ajoutez des candidats, annulez ou effacez un coup, ou révélez un chiffre correct lorsque vous êtes bloqué.</p></article><article><h3>Tactile et clavier</h3><p>Sélectionnez les cases à l’écran ou utilisez les touches numériques et fléchées sur ordinateur.</p></article></div></div>
-        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">Questions sur le Sudoku en ligne</h2><details><summary>Ce Sudoku en ligne est-il gratuit ?</summary><p>Oui. Le jeu dans le navigateur est gratuit et ne demande aucun compte.</p></details><details><summary>Ma grille est-elle enregistrée ?</summary><p>Non. La grille reste uniquement sur la page actuelle. La recharger ou la fermer démarre une nouvelle session.</p></details><details><summary>Que propose l’application ?</summary><p>L’app Apple ajoute les défis quotidiens, l’historique, les thèmes, l’impression et d’autres fonctions natives sur iPhone, iPad, Mac et Apple TV.</p></details></div>
+        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">Questions sur le Sudoku en ligne</h2><details><summary>Ce Sudoku en ligne est-il gratuit ?</summary><p>Oui. Le jeu dans le navigateur est gratuit et ne demande aucun compte.</p></details><details><summary>Ma grille est-elle enregistrée ?</summary><p>Non. La grille reste uniquement sur la page actuelle. La recharger ou la fermer démarre une nouvelle session.</p></details><details><summary>Que propose l’application ?</summary><p>Le jeu gratuit dans le navigateur propose des notes, l’annulation, l’effacement et un indice révélant un chiffre correct. Aucun compte n’est requis ; la grille reste seulement sur la page actuelle. L’app Apple ajoute les défis quotidiens, l’historique local, les thèmes et l’aide facultative aux candidats. L’impression est disponible sur iPhone, iPad et Mac.</p></details></div>
       </section>
       <noscript><section class="section"><p>JavaScript is required to play Sudoku in the browser.</p></section></noscript>
       <footer class="footer"><span>Infinity Sudoku 9x9 - une façon plus calme de jouer.</span><a href="play">Jouer<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>
   </div>
+  <script src="../scripts/product-copy.js" defer></script>
   <script src="../scripts/sudoku-game.js" defer></script>
 </body>
 </html>

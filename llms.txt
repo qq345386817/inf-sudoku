@@ -12,16 +12,38 @@
 
 ## Guides
 
-- [Daily Sudoku focus](https://inf-sudoku.luopeike.com/daily-sudoku-focus)
+- [Daily Sudoku challenges and local history](https://inf-sudoku.luopeike.com/daily-sudoku-focus)
 - [Infinite Sudoku generator](https://inf-sudoku.luopeike.com/infinite-sudoku-generator)
-- [Printable Sudoku puzzles](https://inf-sudoku.luopeike.com/printable-sudoku-puzzles)
+- [Print Sudoku on iPhone, iPad, and Mac](https://inf-sudoku.luopeike.com/printable-sudoku-puzzles)
 
 ## Product facts
 
-- The web game generates classic 9x9 Sudoku puzzles with a unique solution.
-- The browser version stores no account or puzzle history.
-- Daily challenges, challenge history, themes, printing, and other native features are available in the Apple app.
+- Content snapshot updated: 2026-11-09. These facts describe the native Apple app unless stated otherwise.
+- A fresh 9x9 Sudoku, at your own pace. Infinity Sudoku combines generated boards, daily challenges and visual themes in a straightforward number puzzle. Choose Easy, Medium or Hard and fill the grid using row, column and 3x3 box logic.
+- Start today's challenge at your selected difficulty. Completed daily challenges are saved locally with their date, difficulty and completion time. Review your current and best streaks and recent completion history.
+- Completed challenges and streaks are saved on this device. There is no cloud sync, cross-device continuation, or replayable archive of past puzzles.
+- Intelligent Prediction narrows the available number choices for a cell. Free players can use it in 5 games per day; Pro removes that daily limit. Candidate help narrows possible numbers; it is not editable pencil notes or a step-by-step solver.
+- Switch between available themes and a plain board. Some themes require Pro, and remote theme downloads need an internet connection. Core puzzle play and daily puzzle generation work offline; Game Center features require a connection and sign-in. Optional Pro purchases are available.
+- Print the current board on iPhone, iPad, or Mac with a compatible printer. Apple TV does not support printing.
+- Play on Mac, preview themes in a dedicated window and print the current board through the macOS print dialog.
+- Play on Apple TV with the Siri Remote: move between cells and choose numbers with the directional controls. Themes bring the board to the big screen.
+- The free browser game offers notes, undo, erase, and a hint that reveals one correct number. It requires no account and keeps the board only in the current page. The Apple app adds daily challenges, local completion history, themes, and optional candidate help; printing is available on iPhone, iPad, and Mac.
+- The web game generates classic 9x9 Sudoku puzzles with a unique solution. It does not offer the app's daily challenges, local completion history, theme downloads, or native printing.
 - The App Store listing is https://apps.apple.com/app/id6673897515.
+
+## Localized app information
+
+- [English](https://inf-sudoku.luopeike.com/): [App help](https://inf-sudoku.luopeike.com/help)
+- [简体中文](https://inf-sudoku.luopeike.com/zh-Hans/): [App help](https://inf-sudoku.luopeike.com/zh-Hans/help)
+- [繁體中文](https://inf-sudoku.luopeike.com/zh-Hant/): [App help](https://inf-sudoku.luopeike.com/zh-Hant/help)
+- [日本語](https://inf-sudoku.luopeike.com/ja/): [App help](https://inf-sudoku.luopeike.com/ja/help)
+- [한국어](https://inf-sudoku.luopeike.com/ko/): [App help](https://inf-sudoku.luopeike.com/ko/help)
+- [Deutsch](https://inf-sudoku.luopeike.com/de/): [App help](https://inf-sudoku.luopeike.com/de/help)
+- [Français](https://inf-sudoku.luopeike.com/fr/): [App help](https://inf-sudoku.luopeike.com/fr/help)
+- [Español](https://inf-sudoku.luopeike.com/es/): [App help](https://inf-sudoku.luopeike.com/es/help)
+- [Italiano](https://inf-sudoku.luopeike.com/it/): [App help](https://inf-sudoku.luopeike.com/it/help)
+- [Русский](https://inf-sudoku.luopeike.com/ru/): [App help](https://inf-sudoku.luopeike.com/ru/help)
+- [العربية](https://inf-sudoku.luopeike.com/ar/): [App help](https://inf-sudoku.luopeike.com/ar/help)
 
 ## Localized online game
 

@@ -71,6 +71,37 @@
         "price": "0",
         "priceCurrency": "USD"
       }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://inf-sudoku.luopeike.com/zh-Hant/play#faq",
+      "inLanguage": "zh-Hant",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "線上數獨免費嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "免費。網頁版無需帳戶，開啟即可開始。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "棋盤會被儲存嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不會。棋盤只存在於目前頁面，重新整理或關閉頁面後會開始新的遊戲。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "App 版還有哪些功能？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "免費網頁版提供候選筆記、復原、清除，以及顯示一個正確數字的提示；無需帳戶，棋盤只保留在目前頁面。Apple App 另有每日挑戰、本機完成記錄、主題與選用候選數字輔助；列印適用於 iPhone、iPad 和 Mac。"
+          }
+        }
+      ]
     }
   ]
 }
@@ -128,19 +159,20 @@
           <div id="completion-panel" class="completion-panel" role="status" hidden><strong data-i18n="complete">Puzzle complete</strong><p id="completion-text"></p></div>
           <div class="native-promo">
             <img src="../favicon/apple-touch-icon.png" alt="">
-            <div><strong data-i18n="continueApple">Continue on every Apple screen</strong><p data-i18n="appBody">Get daily challenges, history, themes, printing, and more in the app.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
+            <div><strong data-i18n="continueApple">Infinity Sudoku 9x9</strong><p data-i18n="appBody">從一盤全新九宮格或今日挑戰開始。選擇簡單、中等或困難，查看每日連續完成記錄，並搭配主題與選用的候選數字輔助。</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
           </div>
         </aside>
       </main>
       <section class="play-copy" aria-labelledby="play-copy-heading">
         <div class="play-copy-intro"><h2 id="play-copy-heading">免費線上玩 9x9 數獨</h2><p>直接在瀏覽器中開始一道全新產生的經典數獨。每道題均採用標準 9x9 宮格並且只有一個解，無需註冊、無需下載，也不會儲存歷史記錄。</p></div>
         <div class="play-guide" aria-labelledby="play-features-heading"><h2 id="play-features-heading">用自己的方式解題</h2><div class="play-feature-grid"><article><h3>三種難度</h3><p>從容易開始，繼續挑戰中等，或選擇已知數字更少的困難模式。</p></article><article><h3>候選與提示</h3><p>在空格中記錄候選數字，也可以復原、清除，卡住時揭示一個正確數字。</p></article><article><h3>觸控與鍵盤</h3><p>可以點擊或觸控格子，也可在桌面裝置上使用數字鍵和方向鍵快速操作。</p></article></div></div>
-        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">線上數獨常見問題</h2><details><summary>線上數獨免費嗎？</summary><p>免費。網頁版無需帳戶，開啟即可開始。</p></details><details><summary>棋盤會被儲存嗎？</summary><p>不會。棋盤只存在於目前頁面，重新整理或關閉頁面後會開始新的遊戲。</p></details><details><summary>App 版還有哪些功能？</summary><p>Apple 平台 App 另有每日挑戰、挑戰記錄、主題、列印等原生功能，支援 iPhone、iPad、Mac 和 Apple TV。</p></details></div>
+        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">線上數獨常見問題</h2><details><summary>線上數獨免費嗎？</summary><p>免費。網頁版無需帳戶，開啟即可開始。</p></details><details><summary>棋盤會被儲存嗎？</summary><p>不會。棋盤只存在於目前頁面，重新整理或關閉頁面後會開始新的遊戲。</p></details><details><summary>App 版還有哪些功能？</summary><p>免費網頁版提供候選筆記、復原、清除，以及顯示一個正確數字的提示；無需帳戶，棋盤只保留在目前頁面。Apple App 另有每日挑戰、本機完成記錄、主題與選用候選數字輔助；列印適用於 iPhone、iPad 和 Mac。</p></details></div>
       </section>
       <noscript><section class="section"><p>JavaScript is required to play Sudoku in the browser.</p></section></noscript>
       <footer class="footer"><span>Infinity Sudoku 9x9 - 更安靜的數獨體驗。</span><a href="play">線上玩<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>
   </div>
+  <script src="../scripts/product-copy.js" defer></script>
   <script src="../scripts/sudoku-game.js" defer></script>
 </body>
 </html>

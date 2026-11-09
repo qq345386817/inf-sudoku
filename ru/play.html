@@ -71,6 +71,37 @@
         "price": "0",
         "priceCurrency": "USD"
       }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://inf-sudoku.luopeike.com/ru/play#faq",
+      "inLanguage": "ru",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Онлайн-судоку бесплатное?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Да. Игра в браузере бесплатна и не требует учётной записи."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Сохраняется ли головоломка?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Нет. Поле существует только на текущей странице. После перезагрузки или закрытия начнётся новый сеанс."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Что доступно в приложении?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Бесплатная игра в браузере предлагает заметки, отмену, стирание и подсказку, открывающую одну правильную цифру. Учётная запись не нужна, поле остаётся только на текущей странице. Приложение Apple добавляет ежедневные задания, локальную историю, темы и необязательную помощь с кандидатами. Печать доступна на iPhone, iPad и Mac."
+          }
+        }
+      ]
     }
   ]
 }
@@ -128,19 +159,20 @@
           <div id="completion-panel" class="completion-panel" role="status" hidden><strong data-i18n="complete">Puzzle complete</strong><p id="completion-text"></p></div>
           <div class="native-promo">
             <img src="../favicon/apple-touch-icon.png" alt="">
-            <div><strong data-i18n="continueApple">Continue on every Apple screen</strong><p data-i18n="appBody">Get daily challenges, history, themes, printing, and more in the app.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
+            <div><strong data-i18n="continueApple">Infinity Sudoku 9x9</strong><p data-i18n="appBody">Начните новую сетку 9x9 или задачу дня. Выберите сложность, следите за серией ежедневных решений и пробуйте темы и помощь с числами-кандидатами.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
           </div>
         </aside>
       </main>
       <section class="play-copy" aria-labelledby="play-copy-heading">
         <div class="play-copy-intro"><h2 id="play-copy-heading">Бесплатное судоку 9x9 онлайн</h2><p>Играйте в новое классическое судоку прямо в браузере. Каждая головоломка использует стандартное поле 9x9 и имеет единственное решение — без регистрации, загрузки и сохранения истории.</p></div>
         <div class="play-guide" aria-labelledby="play-features-heading"><h2 id="play-features-heading">Решайте удобным способом</h2><div class="play-feature-grid"><article><h3>Три уровня сложности</h3><p>Начните с лёгкого, перейдите к среднему или выберите сложный уровень с меньшим числом подсказок.</p></article><article><h3>Заметки и подсказки</h3><p>Записывайте кандидатов, отменяйте и стирайте ходы или откройте одну правильную цифру, если зашли в тупик.</p></article><article><h3>Сенсорный экран и клавиатура</h3><p>Выбирайте клетки на экране или используйте цифры и стрелки для быстрой игры на компьютере.</p></article></div></div>
-        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">Вопросы об онлайн-судоку</h2><details><summary>Онлайн-судоку бесплатное?</summary><p>Да. Игра в браузере бесплатна и не требует учётной записи.</p></details><details><summary>Сохраняется ли головоломка?</summary><p>Нет. Поле существует только на текущей странице. После перезагрузки или закрытия начнётся новый сеанс.</p></details><details><summary>Что доступно в приложении?</summary><p>Приложение Apple добавляет ежедневные испытания, историю, темы, печать и другие функции для iPhone, iPad, Mac и Apple TV.</p></details></div>
+        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">Вопросы об онлайн-судоку</h2><details><summary>Онлайн-судоку бесплатное?</summary><p>Да. Игра в браузере бесплатна и не требует учётной записи.</p></details><details><summary>Сохраняется ли головоломка?</summary><p>Нет. Поле существует только на текущей странице. После перезагрузки или закрытия начнётся новый сеанс.</p></details><details><summary>Что доступно в приложении?</summary><p>Бесплатная игра в браузере предлагает заметки, отмену, стирание и подсказку, открывающую одну правильную цифру. Учётная запись не нужна, поле остаётся только на текущей странице. Приложение Apple добавляет ежедневные задания, локальную историю, темы и необязательную помощь с кандидатами. Печать доступна на iPhone, iPad и Mac.</p></details></div>
       </section>
       <noscript><section class="section"><p>JavaScript is required to play Sudoku in the browser.</p></section></noscript>
       <footer class="footer"><span>Infinity Sudoku 9x9 - более спокойный способ играть.</span><a href="play">Играть<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>
   </div>
+  <script src="../scripts/product-copy.js" defer></script>
   <script src="../scripts/sudoku-game.js" defer></script>
 </body>
 </html>

@@ -71,6 +71,37 @@
         "price": "0",
         "priceCurrency": "USD"
       }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://inf-sudoku.luopeike.com/play#faq",
+      "inLanguage": "en",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is this online Sudoku free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The browser game is free to play and does not require an account."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is my puzzle saved?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The puzzle stays only in the current page. Reloading or closing it starts a new session."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is available in the app?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The free browser game offers notes, undo, erase, and a hint that reveals one correct number. It requires no account and keeps the board only in the current page. The Apple app adds daily challenges, local completion history, themes, and optional candidate help; printing is available on iPhone, iPad, and Mac."
+          }
+        }
+      ]
     }
   ]
 }
@@ -128,19 +159,20 @@
           <div id="completion-panel" class="completion-panel" role="status" hidden><strong data-i18n="complete">Puzzle complete</strong><p id="completion-text"></p></div>
           <div class="native-promo">
             <img src="favicon/apple-touch-icon.png" alt="">
-            <div><strong data-i18n="continueApple">Continue on every Apple screen</strong><p data-i18n="appBody">Get daily challenges, history, themes, printing, and more in the app.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
+            <div><strong data-i18n="continueApple">Infinity Sudoku 9x9</strong><p data-i18n="appBody">Start a fresh 9x9 board or today&#39;s challenge. Choose Easy, Medium or Hard, track your daily streak and explore themes with optional smart candidate help.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
           </div>
         </aside>
       </main>
       <section class="play-copy" aria-labelledby="play-copy-heading">
         <div class="play-copy-intro"><h2 id="play-copy-heading">Free online 9x9 Sudoku</h2><p>Play a freshly generated classic Sudoku puzzle directly in your browser. Each board uses the standard 9x9 grid and has one solution, with no sign-up, download, or saved history required.</p></div>
         <div class="play-guide" aria-labelledby="play-features-heading"><h2 id="play-features-heading">Choose the way you want to solve</h2><div class="play-feature-grid"><article><h3>Three difficulty levels</h3><p>Start with Easy, move to Medium, or choose Hard when you want fewer given numbers.</p></article><article><h3>Notes and hints</h3><p>Add candidate numbers to empty cells, erase a move, undo changes, or reveal one correct number when you are stuck.</p></article><article><h3>Mouse, touch, and keyboard</h3><p>Select cells on screen or use number and arrow keys for a faster solving flow on desktop.</p></article></div></div>
-        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">Online Sudoku questions</h2><details><summary>Is this online Sudoku free?</summary><p>Yes. The browser game is free to play and does not require an account.</p></details><details><summary>Is my puzzle saved?</summary><p>No. The puzzle stays only in the current page. Reloading or closing it starts a new session.</p></details><details><summary>What is available in the app?</summary><p>The Apple app adds daily challenges, challenge history, themes, printing, and other native features for iPhone, iPad, Mac, and Apple TV.</p></details></div>
+        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">Online Sudoku questions</h2><details><summary>Is this online Sudoku free?</summary><p>Yes. The browser game is free to play and does not require an account.</p></details><details><summary>Is my puzzle saved?</summary><p>No. The puzzle stays only in the current page. Reloading or closing it starts a new session.</p></details><details><summary>What is available in the app?</summary><p>The free browser game offers notes, undo, erase, and a hint that reveals one correct number. It requires no account and keeps the board only in the current page. The Apple app adds daily challenges, local completion history, themes, and optional candidate help; printing is available on iPhone, iPad, and Mac.</p></details></div>
       </section>
       <noscript><section class="section"><p>JavaScript is required to play Sudoku in the browser.</p></section></noscript>
       <footer class="footer"><span>Infinity Sudoku 9x9 - a calmer way to play.</span><a href="play">Play<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>
   </div>
+  <script src="scripts/product-copy.js" defer></script>
   <script src="scripts/sudoku-game.js" defer></script>
 </body>
 </html>

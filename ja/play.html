@@ -71,6 +71,37 @@
         "price": "0",
         "priceCurrency": "USD"
       }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://inf-sudoku.luopeike.com/ja/play#faq",
+      "inLanguage": "ja",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "無料で遊べますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。ブラウザ版は無料で、アカウントも必要ありません。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "問題は保存されますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "保存されません。盤面は現在のページだけにあり、再読み込みや終了で新しいセッションになります。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "アプリ版には何がありますか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "無料のブラウザ版にはメモ、取り消し、消去、正しい数字を一つ表示するヒントがあります。アカウントは不要で、盤面は現在のページだけに保持されます。Apple向けアプリでは毎日のチャレンジ、端末内の達成履歴、テーマ、任意の候補数字サポートを利用できます。印刷はiPhone・iPad・Macに対応しています。"
+          }
+        }
+      ]
     }
   ]
 }
@@ -128,19 +159,20 @@
           <div id="completion-panel" class="completion-panel" role="status" hidden><strong data-i18n="complete">Puzzle complete</strong><p id="completion-text"></p></div>
           <div class="native-promo">
             <img src="../favicon/apple-touch-icon.png" alt="">
-            <div><strong data-i18n="continueApple">Continue on every Apple screen</strong><p data-i18n="appBody">Get daily challenges, history, themes, printing, and more in the app.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
+            <div><strong data-i18n="continueApple">Infinity Sudoku 9x9</strong><p data-i18n="appBody">新しい9x9の盤面や今日の数独に挑戦。初級・中級・上級を選び、連続達成記録を確認し、テーマや候補数字のサポートを活用しましょう。</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
           </div>
         </aside>
       </main>
       <section class="play-copy" aria-labelledby="play-copy-heading">
         <div class="play-copy-intro"><h2 id="play-copy-heading">無料のオンライン9x9数独</h2><p>ブラウザで新しく生成されたクラシック数独をすぐにプレイできます。各問題は標準の9x9盤面で解は一つ。登録、ダウンロード、履歴保存は不要です。</p></div>
         <div class="play-guide" aria-labelledby="play-features-heading"><h2 id="play-features-heading">自分に合った解き方を選ぶ</h2><div class="play-feature-grid"><article><h3>3つの難易度</h3><p>初級から始め、中級へ進み、より少ない数字で挑む上級も選べます。</p></article><article><h3>メモとヒント</h3><p>候補数字を記録し、取り消しや消去を使い、行き詰まったら正しい数字を一つ表示できます。</p></article><article><h3>タッチとキーボード</h3><p>画面でマスを選ぶほか、デスクトップでは数字キーと矢印キーで素早く操作できます。</p></article></div></div>
-        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">オンライン数独について</h2><details><summary>無料で遊べますか？</summary><p>はい。ブラウザ版は無料で、アカウントも必要ありません。</p></details><details><summary>問題は保存されますか？</summary><p>保存されません。盤面は現在のページだけにあり、再読み込みや終了で新しいセッションになります。</p></details><details><summary>アプリ版には何がありますか？</summary><p>Apple向けアプリでは、デイリーチャレンジ、履歴、テーマ、印刷などをiPhone、iPad、Mac、Apple TVで利用できます。</p></details></div>
+        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">オンライン数独について</h2><details><summary>無料で遊べますか？</summary><p>はい。ブラウザ版は無料で、アカウントも必要ありません。</p></details><details><summary>問題は保存されますか？</summary><p>保存されません。盤面は現在のページだけにあり、再読み込みや終了で新しいセッションになります。</p></details><details><summary>アプリ版には何がありますか？</summary><p>無料のブラウザ版にはメモ、取り消し、消去、正しい数字を一つ表示するヒントがあります。アカウントは不要で、盤面は現在のページだけに保持されます。Apple向けアプリでは毎日のチャレンジ、端末内の達成履歴、テーマ、任意の候補数字サポートを利用できます。印刷はiPhone・iPad・Macに対応しています。</p></details></div>
       </section>
       <noscript><section class="section"><p>JavaScript is required to play Sudoku in the browser.</p></section></noscript>
       <footer class="footer"><span>Infinity Sudoku 9x9 - 落ち着いて楽しめる数独。</span><a href="play">プレイ<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>
   </div>
+  <script src="../scripts/product-copy.js" defer></script>
   <script src="../scripts/sudoku-game.js" defer></script>
 </body>
 </html>

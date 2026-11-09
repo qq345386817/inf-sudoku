@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Infinity Sudoku 9x9는 iPhone, iPad, Mac, Apple TV용 차분한 스도쿠 앱으로 무한 퍼즐, 난이도, 테마, 인쇄, 점수, 지능형 예측을 제공합니다.">
+  <meta name="description" content="새로운 9x9 보드나 오늘의 스도쿠를 시작하세요. 초급·중급·고급을 선택하고 연속 완료 기록을 확인하며 테마와 선택 가능한 후보 숫자 도움을 활용하세요.">
   <meta name="robots" content="index,follow">
-  <meta property="og:title" content="Infinity Sudoku 9x9 | 매일 집중을 위한 차분한 스도쿠 공간.">
-  <meta property="og:description" content="Infinity Sudoku 9x9는 iPhone, iPad, Mac, Apple TV용 차분한 스도쿠 앱으로 무한 퍼즐, 난이도, 테마, 인쇄, 점수, 지능형 예측을 제공합니다.">
+  <meta property="og:title" content="Infinity Sudoku 9x9 | 매일 스도쿠와 후보 숫자, 테마">
+  <meta property="og:description" content="새로운 9x9 보드나 오늘의 스도쿠를 시작하세요. 초급·중급·고급을 선택하고 연속 완료 기록을 확인하며 테마와 선택 가능한 후보 숫자 도움을 활용하세요.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://inf-sudoku.luopeike.com/ko/">
   <meta property="og:image" content="https://inf-sudoku.luopeike.com/favicon/android-chrome-512x512.png">
@@ -32,17 +32,31 @@
   <link rel="manifest" href="../favicon/site.webmanifest">
   <meta name="theme-color" content="#0f8fb8">
   <link rel="stylesheet" href="../style/base.css">
-  <title>Infinity Sudoku 9x9 | 매일 집중을 위한 차분한 스도쿠 공간.</title>
+  <title>Infinity Sudoku 9x9 | 매일 스도쿠와 후보 숫자, 테마</title>
+  <link rel="stylesheet" href="../style/refresh.css">
+  <meta name="twitter:title" content="Infinity Sudoku 9x9 | 매일 스도쿠와 후보 숫자, 테마">
+  <meta name="twitter:description" content="새로운 9x9 보드나 오늘의 스도쿠를 시작하세요. 초급·중급·고급을 선택하고 연속 완료 기록을 확인하며 테마와 선택 가능한 후보 숫자 도움을 활용하세요.">
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
+  "@id": "https://inf-sudoku.luopeike.com/ko/#app",
   "name": "Infinity Sudoku 9x9",
-  "description": "Infinity Sudoku 9x9는 iPhone, iPad, Mac, Apple TV용 차분한 스도쿠 앱으로 무한 퍼즐, 난이도, 테마, 인쇄, 점수, 지능형 예측을 제공합니다.",
+  "description": "새로운 9x9 보드나 오늘의 스도쿠를 시작하세요. 초급·중급·고급을 선택하고 연속 완료 기록을 확인하며 테마와 선택 가능한 후보 숫자 도움을 활용하세요.",
   "url": "https://inf-sudoku.luopeike.com/ko/",
+  "inLanguage": "ko",
   "applicationCategory": "GameApplication",
   "operatingSystem": "iOS, iPadOS, macOS, tvOS",
   "image": "https://inf-sudoku.luopeike.com/favicon/android-chrome-512x512.png",
+  "sameAs": [
+    "https://apps.apple.com/app/id6673897515"
+  ],
+  "featureList": [
+    "선택한 난이도로 오늘의 도전을 시작하세요. 완료한 날짜, 난이도, 소요 시간을 기기에 저장하고 현재와 최고 연속 완료 일수 및 최근 완료 기록을 확인할 수 있습니다.",
+    "스마트 예측은 칸에서 선택할 수 있는 숫자 후보를 줄여줍니다. 무료 이용자는 하루 5게임에서 사용할 수 있으며, Pro는 이 일일 제한을 해제합니다.",
+    "이용 가능한 테마와 기본 보드 중에서 선택하세요. 일부 테마에는 Pro가 필요하며 원격 테마 다운로드에는 인터넷 연결이 필요합니다. 기본 플레이와 매일 문제 생성은 오프라인으로 이용할 수 있습니다. Game Center에는 연결과 로그인이 필요합니다. 선택 사항인 Pro 앱 내 구입이 제공됩니다.",
+    "호환 프린터가 있으면 iPhone, iPad, Mac에서 현재 보드를 인쇄할 수 있습니다. Apple TV는 인쇄를 지원하지 않습니다."
+  ],
   "offers": {
     "@type": "Offer",
     "price": "0",
@@ -50,7 +64,6 @@
   }
 }
   </script>
-  <link rel="stylesheet" href="../style/refresh.css">
 </head>
 <body data-site-design="focus-2026">
   <a class="skip-link" href="#main-content">본문으로 이동</a>
@@ -68,7 +81,7 @@
           <div class="hero-copy">
             <p class="kicker">무한 9x9 스도쿠</p>
             <h1><span>한 칸씩,</span><span>차분하게 집중.</span></h1>
-            <p class="lead">iPhone, iPad, Mac, Apple TV에서 새로 생성되는 스도쿠를 즐기고 난이도, 차분한 테마, 인쇄, 점수, 지능형 예측을 사용하세요.</p>
+            <p class="lead">9x9 스도쿠를 나만의 속도로 풀어보세요. Infinity Sudoku는 생성된 보드, 매일 도전, 시각적 테마를 제공하는 숫자 퍼즐입니다. 초급·중급·고급을 선택하고 행, 열, 3x3 블록의 규칙에 따라 숫자를 채우세요.</p>
             <div class="actions"><a class="button web-play" href="play">플레이<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a><a class="button secondary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt="">App Store에서 다운로드</a></div>
             <p class="platforms">iPhone · iPad · Mac · Apple TV</p>
           </div>
@@ -77,8 +90,9 @@
             <div class="stats"><span>쉬움</span><span>보통</span><span>어려움</span></div><div class="preview-caption"><span>무료 플레이 · 가입 불필요</span><a href="play">플레이<span aria-hidden="true">↗</span></a></div>
           </div>
         </section>
-        <section class="section"><span class="section-index" aria-hidden="true">01</span><h2>꾸준한 퍼즐 연습을 위해</h2><div class="feature-grid"><article class="feature"><strong>언제든 새 퍼즐</strong><p>쉬움, 보통, 어려움 보드가 계속 생성되어 항상 다음 도전이 준비됩니다.</p></article><article class="feature"><strong>풀이 분위기를 바꾸는 테마</strong><p>먹, 대나무, 겨울 매화, 스카이라인, 숲, 고전 예술 테마로 앱 아이콘과 UI의 분위기를 이어갑니다.</p></article><article class="feature"><strong>방해 없는 유용한 도구</strong><p>보드 인쇄, 점수 추적, 지능형 예측으로 필요할 때만 풀이를 부드럽게 만듭니다.</p></article></div></section>
-      <section class="section guides-section"><span class="section-index" aria-hidden="true">02</span><h2>스도쿠 가이드</h2><div class="feature-grid"><article class="feature guide-card"><strong><a href="daily-sudoku-focus">매일 스도쿠 집중 연습</a></strong><p>짧은 스도쿠 세션으로 관찰력, 인내심, 논리적 집중력을 부담 없이 연습하세요.</p></article><article class="feature guide-card"><strong><a href="printable-sudoku-puzzles">인쇄 가능한 스도쿠 퍼즐</a></strong><p>Infinity Sudoku에서 새 보드를 인쇄하고 화면 밖 종이 위에서 풀어 보세요.</p></article><article class="feature guide-card"><strong><a href="infinite-sudoku-generator">무한 스도쿠 생성기</a></strong><p>생성형 스도쿠 보드가 Easy, Medium, Hard 연습을 새롭게 유지하는 이유.</p></article></div></section>
+        <section class="section"><span class="section-index" aria-hidden="true">01</span><h2>꾸준한 퍼즐 연습을 위해</h2><div class="feature-grid"><article class="feature"><strong>매일 한 문제</strong><p>선택한 난이도로 오늘의 도전을 시작하세요. 완료한 날짜, 난이도, 소요 시간을 기기에 저장하고 현재와 최고 연속 완료 일수 및 최근 완료 기록을 확인할 수 있습니다.</p></article><article class="feature"><strong>필요할 때 후보 숫자 확인</strong><p>스마트 예측은 칸에서 선택할 수 있는 숫자 후보를 줄여줍니다. 무료 이용자는 하루 5게임에서 사용할 수 있으며, Pro는 이 일일 제한을 해제합니다.</p></article><article class="feature"><strong>원하는 화면 선택</strong><p>이용 가능한 테마와 기본 보드 중에서 선택하세요. 일부 테마에는 Pro가 필요하며 원격 테마 다운로드에는 인터넷 연결이 필요합니다. 기본 플레이와 매일 문제 생성은 오프라인으로 이용할 수 있습니다. Game Center에는 연결과 로그인이 필요합니다. 선택 사항인 Pro 앱 내 구입이 제공됩니다.</p></article></div></section>
+      <!-- APP_PLATFORMS_START --><section class="section"><span class="section-index" aria-hidden="true">02</span><h2>Apple 기기에 맞춰 즐기기</h2><div class="feature-grid"><article class="feature"><strong>iPhone · iPad</strong><p>iPhone과 iPad에서 터치로 플레이하세요. 호환 프린터가 있으면 시스템 인쇄 화면에서 현재 보드를 인쇄해 종이로 풀 수 있습니다.</p></article><article class="feature"><strong>Mac</strong><p>Mac에서 별도 윈도우로 테마를 미리 보고 macOS 인쇄 대화상자에서 현재 보드를 인쇄할 수 있습니다.</p></article><article class="feature"><strong>Apple TV</strong><p>Apple TV에서 Siri Remote 방향 조작으로 칸과 숫자를 선택하세요. 큰 화면에서 테마와 함께 스도쿠를 즐길 수 있습니다.</p></article></div><p>호환 프린터가 있으면 iPhone, iPad, Mac에서 현재 보드를 인쇄할 수 있습니다. Apple TV는 인쇄를 지원하지 않습니다.</p></section><!-- APP_PLATFORMS_END -->
+        <section class="section guides-section"><span class="section-index" aria-hidden="true">03</span><h2>스도쿠 가이드</h2><div class="feature-grid"><article class="feature guide-card"><strong><a href="daily-sudoku-focus">매일 스도쿠 도전과 기기 내 완료 기록</a></strong><p>선택한 난이도로 오늘의 도전을 시작하세요. 완료한 날짜, 난이도, 소요 시간을 기기에 저장하고 현재와 최고 연속 완료 일수 및 최근 완료 기록을 확인할 수 있습니다.</p></article><article class="feature guide-card"><strong><a href="printable-sudoku-puzzles">iPhone, iPad, Mac에서 스도쿠 인쇄</a></strong><p>호환 프린터가 있으면 iPhone, iPad, Mac에서 현재 보드를 인쇄할 수 있습니다. Apple TV는 인쇄를 지원하지 않습니다.</p></article><article class="feature guide-card"><strong><a href="infinite-sudoku-generator">무한 스도쿠 생성기</a></strong><p>9x9 스도쿠를 나만의 속도로 풀어보세요. Infinity Sudoku는 생성된 보드, 매일 도전, 시각적 테마를 제공하는 숫자 퍼즐입니다. 초급·중급·고급을 선택하고 행, 열, 3x3 블록의 규칙에 따라 숫자를 채우세요.</p></article></div></section>
       </main>
       <footer class="footer"><span>Infinity Sudoku 9x9 - Apple 기기용 차분한 무한 스도쿠.</span><a href="play">플레이<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>

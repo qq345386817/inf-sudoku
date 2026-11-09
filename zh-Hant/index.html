@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Infinity Sudoku 9x9 是適用於 iPhone、iPad、Mac 和 Apple TV 的安靜數獨 App，提供無限棋盤、難度、主題、列印、積分和智慧預測。">
+  <meta name="description" content="從一盤全新九宮格或今日挑戰開始。選擇簡單、中等或困難，查看每日連續完成記錄，並搭配主題與選用的候選數字輔助。">
   <meta name="robots" content="index,follow">
-  <meta property="og:title" content="Infinity Sudoku 9x9 | 為日常專注打造的安靜數獨空間。">
-  <meta property="og:description" content="Infinity Sudoku 9x9 是適用於 iPhone、iPad、Mac 和 Apple TV 的安靜數獨 App，提供無限棋盤、難度、主題、列印、積分和智慧預測。">
+  <meta property="og:title" content="Infinity Sudoku 9x9 | 每日數獨挑戰，候選數字與主題">
+  <meta property="og:description" content="從一盤全新九宮格或今日挑戰開始。選擇簡單、中等或困難，查看每日連續完成記錄，並搭配主題與選用的候選數字輔助。">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://inf-sudoku.luopeike.com/zh-Hant/">
   <meta property="og:image" content="https://inf-sudoku.luopeike.com/favicon/android-chrome-512x512.png">
@@ -32,17 +32,31 @@
   <link rel="manifest" href="../favicon/site.webmanifest">
   <meta name="theme-color" content="#0f8fb8">
   <link rel="stylesheet" href="../style/base.css">
-  <title>Infinity Sudoku 9x9 | 為日常專注打造的安靜數獨空間。</title>
+  <title>Infinity Sudoku 9x9 | 每日數獨挑戰，候選數字與主題</title>
+  <link rel="stylesheet" href="../style/refresh.css">
+  <meta name="twitter:title" content="Infinity Sudoku 9x9 | 每日數獨挑戰，候選數字與主題">
+  <meta name="twitter:description" content="從一盤全新九宮格或今日挑戰開始。選擇簡單、中等或困難，查看每日連續完成記錄，並搭配主題與選用的候選數字輔助。">
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
+  "@id": "https://inf-sudoku.luopeike.com/zh-Hant/#app",
   "name": "Infinity Sudoku 9x9",
-  "description": "Infinity Sudoku 9x9 是適用於 iPhone、iPad、Mac 和 Apple TV 的安靜數獨 App，提供無限棋盤、難度、主題、列印、積分和智慧預測。",
+  "description": "從一盤全新九宮格或今日挑戰開始。選擇簡單、中等或困難，查看每日連續完成記錄，並搭配主題與選用的候選數字輔助。",
   "url": "https://inf-sudoku.luopeike.com/zh-Hant/",
+  "inLanguage": "zh-Hant",
   "applicationCategory": "GameApplication",
   "operatingSystem": "iOS, iPadOS, macOS, tvOS",
   "image": "https://inf-sudoku.luopeike.com/favicon/android-chrome-512x512.png",
+  "sameAs": [
+    "https://apps.apple.com/app/id6673897515"
+  ],
+  "featureList": [
+    "按所選難度開始今日挑戰。完成後，在本機儲存日期、難度與完成時間，查看目前與最佳連續完成天數，以及近期完成記錄。",
+    "智慧預測會縮小儲存格中可選的數字範圍。免費使用者每天可在 5 局遊戲中使用；Pro 可解除這項每日限制。",
+    "在可用主題與簡潔棋盤之間切換。部分主題需要 Pro，遠端主題下載需要連線。核心數獨玩法與每日題目產生可離線使用；Game Center 功能需要連線並登入。提供選購的 Pro 內購。",
+    "在 iPhone、iPad 或 Mac 上搭配相容印表機，可列印目前棋盤。Apple TV 不支援列印。"
+  ],
   "offers": {
     "@type": "Offer",
     "price": "0",
@@ -50,7 +64,6 @@
   }
 }
   </script>
-  <link rel="stylesheet" href="../style/refresh.css">
 </head>
 <body data-site-design="focus-2026">
   <a class="skip-link" href="#main-content">跳至正文</a>
@@ -68,7 +81,7 @@
           <div class="hero-copy">
             <p class="kicker">無限 9x9 數獨</p>
             <h1><span>一格一格，</span><span>找回專注。</span></h1>
-            <p class="lead">在 iPhone、iPad、Mac 和 Apple TV 上遊玩持續生成的數獨棋盤，享受清晰難度、安靜主題、列印、積分和智慧預測。</p>
+            <p class="lead">一盤九宮格，按自己的節奏解。Infinity Sudoku 將隨機產生的數獨、每日挑戰與視覺主題放在一起。選擇簡單、中等或困難，依據行、列與九宮的數字規則填完整盤。</p>
             <div class="actions"><a class="button web-play" href="play">線上玩<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></a><a class="button secondary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt="">在 App Store 下載</a></div>
             <p class="platforms">iPhone · iPad · Mac · Apple TV</p>
           </div>
@@ -77,8 +90,9 @@
             <div class="stats"><span>容易</span><span>中等</span><span>困難</span></div><div class="preview-caption"><span>免費線上玩 · 無需註冊</span><a href="play">線上玩<span aria-hidden="true">↗</span></a></div>
           </div>
         </section>
-        <section class="section"><span class="section-index" aria-hidden="true">01</span><h2>為穩定的解題練習設計</h2><div class="feature-grid"><article class="feature"><strong>隨時都有新棋盤</strong><p>容易、中等、困難棋盤會持續生成，總有新的挑戰可以開始。</p></article><article class="feature"><strong>適合解題的視覺氛圍</strong><p>選擇水墨、竹林、冬梅、天際線、森林和古典藝術主題，與 App 圖示和原生界面 保持一致。</p></article><article class="feature"><strong>有用但不打擾</strong><p>列印棋盤、記錄積分，並在需要時使用智慧預測，讓解題更輕鬆。</p></article></div></section>
-      <section class="section guides-section"><span class="section-index" aria-hidden="true">02</span><h2>數獨指南</h2><div class="feature-grid"><article class="feature guide-card"><strong><a href="daily-sudoku-focus">每日數獨專注練習</a></strong><p>用短時間數獨練習訓練觀察、耐心和邏輯專注，同時避免把練習變成負擔。</p></article><article class="feature guide-card"><strong><a href="printable-sudoku-puzzles">可列印數獨題目</a></strong><p>從 Infinity Sudoku 列印一張新棋盤，離開螢幕在紙上解題。</p></article><article class="feature guide-card"><strong><a href="infinite-sudoku-generator">無限數獨生成器</a></strong><p>了解持續生成的數獨棋盤如何讓容易、中等、困難難度的練習保持新鮮。</p></article></div></section>
+        <section class="section"><span class="section-index" aria-hidden="true">01</span><h2>為穩定的解題練習設計</h2><div class="feature-grid"><article class="feature"><strong>每天留一道題</strong><p>按所選難度開始今日挑戰。完成後，在本機儲存日期、難度與完成時間，查看目前與最佳連續完成天數，以及近期完成記錄。</p></article><article class="feature"><strong>需要時，看看候選數字</strong><p>智慧預測會縮小儲存格中可選的數字範圍。免費使用者每天可在 5 局遊戲中使用；Pro 可解除這項每日限制。</p></article><article class="feature"><strong>選擇適合自己的畫面</strong><p>在可用主題與簡潔棋盤之間切換。部分主題需要 Pro，遠端主題下載需要連線。核心數獨玩法與每日題目產生可離線使用；Game Center 功能需要連線並登入。提供選購的 Pro 內購。</p></article></div></section>
+      <!-- APP_PLATFORMS_START --><section class="section"><span class="section-index" aria-hidden="true">02</span><h2>選擇你的 Apple 裝置</h2><div class="feature-grid"><article class="feature"><strong>iPhone · iPad</strong><p>在 iPhone 與 iPad 上觸控遊玩。透過系統列印介面列印目前棋盤，搭配相容印表機繼續紙上解題。</p></article><article class="feature"><strong>Mac</strong><p>在 Mac 上遊玩，在獨立視窗中預覽主題，並透過 macOS 列印對話框列印目前棋盤。</p></article><article class="feature"><strong>Apple TV</strong><p>在 Apple TV 上使用 Siri Remote 的方向控制選擇格子與數字，搭配主題在大螢幕上解數獨。</p></article></div><p>在 iPhone、iPad 或 Mac 上搭配相容印表機，可列印目前棋盤。Apple TV 不支援列印。</p></section><!-- APP_PLATFORMS_END -->
+        <section class="section guides-section"><span class="section-index" aria-hidden="true">03</span><h2>數獨指南</h2><div class="feature-grid"><article class="feature guide-card"><strong><a href="daily-sudoku-focus">每日數獨挑戰與本機完成記錄</a></strong><p>按所選難度開始今日挑戰。完成後，在本機儲存日期、難度與完成時間，查看目前與最佳連續完成天數，以及近期完成記錄。</p></article><article class="feature guide-card"><strong><a href="printable-sudoku-puzzles">在 iPhone、iPad 和 Mac 上列印數獨</a></strong><p>在 iPhone、iPad 或 Mac 上搭配相容印表機，可列印目前棋盤。Apple TV 不支援列印。</p></article><article class="feature guide-card"><strong><a href="infinite-sudoku-generator">無限數獨生成器</a></strong><p>一盤九宮格，按自己的節奏解。Infinity Sudoku 將隨機產生的數獨、每日挑戰與視覺主題放在一起。選擇簡單、中等或困難，依據行、列與九宮的數字規則填完整盤。</p></article></div></section>
       </main>
       <footer class="footer"><span>Infinity Sudoku 9x9 - 適用於 Apple 裝置的安靜無限數獨。</span><a href="play">線上玩<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>

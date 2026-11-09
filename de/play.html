@@ -71,6 +71,37 @@
         "price": "0",
         "priceCurrency": "USD"
       }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://inf-sudoku.luopeike.com/de/play#faq",
+      "inLanguage": "de",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ist das Online-Sudoku kostenlos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Das Spiel im Browser ist kostenlos und benötigt kein Konto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wird mein Rätsel gespeichert?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein. Das Rätsel bleibt nur auf der aktuellen Seite. Beim Neuladen oder Schließen beginnt eine neue Sitzung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was bietet die App?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das kostenlose Browserspiel bietet Notizen, Rückgängig, Löschen und einen Hinweis, der eine richtige Zahl aufdeckt. Es benötigt kein Konto und behält das Feld nur auf der aktuellen Seite. Die Apple-App ergänzt Tagesaufgaben, lokalen Abschlussverlauf, Themen und optionale Kandidatenhilfe. Drucken ist auf iPhone, iPad und Mac verfügbar."
+          }
+        }
+      ]
     }
   ]
 }
@@ -128,19 +159,20 @@
           <div id="completion-panel" class="completion-panel" role="status" hidden><strong data-i18n="complete">Puzzle complete</strong><p id="completion-text"></p></div>
           <div class="native-promo">
             <img src="../favicon/apple-touch-icon.png" alt="">
-            <div><strong data-i18n="continueApple">Continue on every Apple screen</strong><p data-i18n="appBody">Get daily challenges, history, themes, printing, and more in the app.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
+            <div><strong data-i18n="continueApple">Infinity Sudoku 9x9</strong><p data-i18n="appBody">Starte ein neues 9x9-Feld oder die Tagesaufgabe. Wähle Leicht, Mittel oder Schwer, verfolge deine tägliche Serie und nutze Themen und optionale Kandidatenhilfe.</p><a class="button primary store" href="https://apps.apple.com/app/id6673897515" target="_blank" rel="noopener"><img class="store-icon" src="../images/app-store-icon.svg" alt=""><span data-i18n="download">Download on the App Store</span></a></div>
           </div>
         </aside>
       </main>
       <section class="play-copy" aria-labelledby="play-copy-heading">
         <div class="play-copy-intro"><h2 id="play-copy-heading">Kostenloses 9x9-Sudoku online</h2><p>Spiele ein frisch erzeugtes klassisches Sudoku direkt im Browser. Jedes Rätsel nutzt das übliche 9x9-Raster und hat genau eine Lösung – ohne Anmeldung, Download oder gespeicherten Verlauf.</p></div>
         <div class="play-guide" aria-labelledby="play-features-heading"><h2 id="play-features-heading">Löse das Rätsel auf deine Art</h2><div class="play-feature-grid"><article><h3>Drei Schwierigkeitsstufen</h3><p>Beginne mit Leicht, wechsle zu Mittel oder wähle Schwer mit weniger vorgegebenen Zahlen.</p></article><article><h3>Notizen und Hinweise</h3><p>Trage Kandidaten ein, mache Züge rückgängig, lösche Eingaben oder decke bei Bedarf eine richtige Zahl auf.</p></article><article><h3>Touch und Tastatur</h3><p>Wähle Felder am Bildschirm oder nutze auf dem Desktop Zahlen- und Pfeiltasten für schnelleres Spielen.</p></article></div></div>
-        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">Fragen zum Online-Sudoku</h2><details><summary>Ist das Online-Sudoku kostenlos?</summary><p>Ja. Das Spiel im Browser ist kostenlos und benötigt kein Konto.</p></details><details><summary>Wird mein Rätsel gespeichert?</summary><p>Nein. Das Rätsel bleibt nur auf der aktuellen Seite. Beim Neuladen oder Schließen beginnt eine neue Sitzung.</p></details><details><summary>Was bietet die App?</summary><p>Die Apple-App ergänzt tägliche Herausforderungen, Verlauf, Designs, Drucken und weitere native Funktionen für iPhone, iPad, Mac und Apple TV.</p></details></div>
+        <div class="play-faq" aria-labelledby="play-faq-heading"><h2 id="play-faq-heading">Fragen zum Online-Sudoku</h2><details><summary>Ist das Online-Sudoku kostenlos?</summary><p>Ja. Das Spiel im Browser ist kostenlos und benötigt kein Konto.</p></details><details><summary>Wird mein Rätsel gespeichert?</summary><p>Nein. Das Rätsel bleibt nur auf der aktuellen Seite. Beim Neuladen oder Schließen beginnt eine neue Sitzung.</p></details><details><summary>Was bietet die App?</summary><p>Das kostenlose Browserspiel bietet Notizen, Rückgängig, Löschen und einen Hinweis, der eine richtige Zahl aufdeckt. Es benötigt kein Konto und behält das Feld nur auf der aktuellen Seite. Die Apple-App ergänzt Tagesaufgaben, lokalen Abschlussverlauf, Themen und optionale Kandidatenhilfe. Drucken ist auf iPhone, iPad und Mac verfügbar.</p></details></div>
       </section>
       <noscript><section class="section"><p>JavaScript is required to play Sudoku in the browser.</p></section></noscript>
       <footer class="footer"><span>Infinity Sudoku 9x9 - entspannter Sudoku spielen.</span><a href="play">Spielen<span aria-hidden="true">&nbsp;↗</span></a></footer>
     </div>
   </div>
+  <script src="../scripts/product-copy.js" defer></script>
   <script src="../scripts/sudoku-game.js" defer></script>
 </body>
 </html>
